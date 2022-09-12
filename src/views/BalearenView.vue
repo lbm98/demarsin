@@ -22,22 +22,22 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #images>
-      <ImageWrapper country="balearen" image-name="angra"/>
-      <ImageWrapper country="balearen" image-name="baai"/>
-      <ImageWrapper country="balearen" image-name="caldera"/>
-      <ImageWrapper country="balearen" image-name="capelinhos"/>
-      <ImageWrapper country="balearen" image-name="cidades"/>
+      <ImageWrapper country="balearen" image-name="almudaina"/>
+      <ImageWrapper country="balearen" image-name="belver"/>
+      <ImageWrapper country="balearen" image-name="calobra"/>
       <ImageWrapper country="balearen" image-name="dorpskerk"/>
       <ImageWrapper country="balearen" image-name="feest"/>
-      <ImageWrapper country="balearen" image-name="graciosa"/>
-      <ImageWrapper country="balearen" image-name="kaas"/>
-      <ImageWrapper country="balearen" image-name="kratermeer"/>
-      <ImageWrapper country="balearen" image-name="lagoa"/>
-      <ImageWrapper country="balearen" image-name="molens"/>
-      <ImageWrapper country="balearen" image-name="pico"/>
-      <ImageWrapper country="balearen" image-name="tourada"/>
-      <ImageWrapper country="balearen" image-name="weiden"/>
-      <ImageWrapper country="balearen" image-name="woning"/>
+      <ImageWrapper country="balearen" image-name="folklore"/>
+      <ImageWrapper country="balearen" image-name="ibiza"/>
+      <ImageWrapper country="balearen" image-name="kathedraal"/>
+      <ImageWrapper country="balearen" image-name="kust"/>
+      <ImageWrapper country="balearen" image-name="menorca"/>
+      <ImageWrapper country="balearen" image-name="naveta"/>
+      <ImageWrapper country="balearen" image-name="steengroeve"/>
+      <ImageWrapper country="balearen" image-name="toren"/>
+      <ImageWrapper country="balearen" image-name="tralayot"/>
+      <ImageWrapper country="balearen" image-name="valdemosa"/>
+      <ImageWrapper country="balearen" image-name="vuurtoren"/>
     </template>
 
     <template #long-text>

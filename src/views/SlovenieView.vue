@@ -22,22 +22,18 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #images>
-      <ImageWrapper country="azoren" image-name="angra"/>
-      <ImageWrapper country="azoren" image-name="baai"/>
-      <ImageWrapper country="azoren" image-name="caldera"/>
-      <ImageWrapper country="azoren" image-name="capelinhos"/>
-      <ImageWrapper country="azoren" image-name="cidades"/>
-      <ImageWrapper country="azoren" image-name="dorpskerk"/>
-      <ImageWrapper country="azoren" image-name="feest"/>
-      <ImageWrapper country="azoren" image-name="graciosa"/>
-      <ImageWrapper country="azoren" image-name="kaas"/>
-      <ImageWrapper country="azoren" image-name="kratermeer"/>
-      <ImageWrapper country="azoren" image-name="lagoa"/>
-      <ImageWrapper country="azoren" image-name="molens"/>
-      <ImageWrapper country="azoren" image-name="pico"/>
-      <ImageWrapper country="azoren" image-name="tourada"/>
-      <ImageWrapper country="azoren" image-name="weiden"/>
-      <ImageWrapper country="azoren" image-name="woning"/>
+      <ImageWrapper country="slovenie" image-name="bled"/>
+      <ImageWrapper country="slovenie" image-name="feest"/>
+      <ImageWrapper country="slovenie" image-name="julische"/>
+      <ImageWrapper country="slovenie" image-name="kamnische"/>
+      <ImageWrapper country="slovenie" image-name="lipica"/>
+      <ImageWrapper country="slovenie" image-name="ljubljana"/>
+      <ImageWrapper country="slovenie" image-name="maribor"/>
+      <ImageWrapper country="slovenie" image-name="piran"/>
+      <ImageWrapper country="slovenie" image-name="pletna"/>
+      <ImageWrapper country="slovenie" image-name="postojna"/>
+      <ImageWrapper country="slovenie" image-name="predjama"/>
+      <ImageWrapper country="slovenie" image-name="wijngaarden"/>
     </template>
 
     <template #long-text>

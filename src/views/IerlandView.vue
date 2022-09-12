@@ -22,16 +22,18 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #images>
-      <ImageWrapper country="portugal" image-name="algarve"/>
-      <ImageWrapper country="portugal" image-name="ankerpark"/>
-      <ImageWrapper country="portugal" image-name="belem"/>
-      <ImageWrapper country="portugal" image-name="evora"/>
-      <ImageWrapper country="portugal" image-name="feest"/>
-      <ImageWrapper country="portugal" image-name="haan"/>
-      <ImageWrapper country="portugal" image-name="lissabon"/>
-      <ImageWrapper country="portugal" image-name="lissabon2"/>
-      <ImageWrapper country="portugal" image-name="noord"/>
-      <ImageWrapper country="portugal" image-name="porta"/>
+      <ImageWrapper country="ierland" image-name="abbey"/>
+      <ImageWrapper country="ierland" image-name="adara"/>
+      <ImageWrapper country="ierland" image-name="belfast"/>
+      <ImageWrapper country="ierland" image-name="bloomsday"/>
+      <ImageWrapper country="ierland" image-name="causeway"/>
+      <ImageWrapper country="ierland" image-name="cottage"/>
+      <ImageWrapper country="ierland" image-name="glendalough"/>
+      <ImageWrapper country="ierland" image-name="michael"/>
+      <ImageWrapper country="ierland" image-name="moher"/>
+      <ImageWrapper country="ierland" image-name="monasterboice"/>
+      <ImageWrapper country="ierland" image-name="poulnabronedolmen"/>
+      <ImageWrapper country="ierland" image-name="straatartiest"/>
     </template>
 
     <template #long-text>

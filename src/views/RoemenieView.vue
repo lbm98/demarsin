@@ -22,22 +22,18 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #images>
-      <ImageWrapper country="azoren" image-name="angra"/>
-      <ImageWrapper country="azoren" image-name="baai"/>
-      <ImageWrapper country="azoren" image-name="caldera"/>
-      <ImageWrapper country="azoren" image-name="capelinhos"/>
-      <ImageWrapper country="azoren" image-name="cidades"/>
-      <ImageWrapper country="azoren" image-name="dorpskerk"/>
-      <ImageWrapper country="azoren" image-name="feest"/>
-      <ImageWrapper country="azoren" image-name="graciosa"/>
-      <ImageWrapper country="azoren" image-name="kaas"/>
-      <ImageWrapper country="azoren" image-name="kratermeer"/>
-      <ImageWrapper country="azoren" image-name="lagoa"/>
-      <ImageWrapper country="azoren" image-name="molens"/>
-      <ImageWrapper country="azoren" image-name="pico"/>
-      <ImageWrapper country="azoren" image-name="tourada"/>
-      <ImageWrapper country="azoren" image-name="weiden"/>
-      <ImageWrapper country="azoren" image-name="woning"/>
+      <ImageWrapper country="roemenie" image-name="bicaz"/>
+      <ImageWrapper country="roemenie" image-name="boekarest"/>
+      <ImageWrapper country="roemenie" image-name="bucovina"/>
+      <ImageWrapper country="roemenie" image-name="maramures"/>
+      <ImageWrapper country="roemenie" image-name="maramures2"/>
+      <ImageWrapper country="roemenie" image-name="maramures3"/>
+      <ImageWrapper country="roemenie" image-name="pelisor"/>
+      <ImageWrapper country="roemenie" image-name="prejmer"/>
+      <ImageWrapper country="roemenie" image-name="sapanta"/>
+      <ImageWrapper country="roemenie" image-name="sinaia"/>
+      <ImageWrapper country="roemenie" image-name="wijnfeest"/>
+      <ImageWrapper country="roemenie" image-name="wijnkoning"/>
     </template>
 
     <template #long-text>

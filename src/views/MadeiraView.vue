@@ -22,22 +22,18 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #images>
-      <ImageWrapper country="azoren" image-name="angra"/>
-      <ImageWrapper country="azoren" image-name="baai"/>
-      <ImageWrapper country="azoren" image-name="caldera"/>
-      <ImageWrapper country="azoren" image-name="capelinhos"/>
-      <ImageWrapper country="azoren" image-name="cidades"/>
-      <ImageWrapper country="azoren" image-name="dorpskerk"/>
-      <ImageWrapper country="azoren" image-name="feest"/>
-      <ImageWrapper country="azoren" image-name="graciosa"/>
-      <ImageWrapper country="azoren" image-name="kaas"/>
-      <ImageWrapper country="azoren" image-name="kratermeer"/>
-      <ImageWrapper country="azoren" image-name="lagoa"/>
-      <ImageWrapper country="azoren" image-name="molens"/>
-      <ImageWrapper country="azoren" image-name="pico"/>
-      <ImageWrapper country="azoren" image-name="tourada"/>
-      <ImageWrapper country="azoren" image-name="weiden"/>
-      <ImageWrapper country="azoren" image-name="woning"/>
+      <ImageWrapper country="madeira" image-name="basaltzuilen"/>
+      <ImageWrapper country="madeira" image-name="camara"/>
+      <ImageWrapper country="madeira" image-name="druivenoogst"/>
+      <ImageWrapper country="madeira" image-name="folklore"/>
+      <ImageWrapper country="madeira" image-name="funchal"/>
+      <ImageWrapper country="madeira" image-name="kunst"/>
+      <ImageWrapper country="madeira" image-name="levada"/>
+      <ImageWrapper country="madeira" image-name="maderia"/>
+      <ImageWrapper country="madeira" image-name="porto"/>
+      <ImageWrapper country="madeira" image-name="ruivo"/>
+      <ImageWrapper country="madeira" image-name="santana"/>
+      <ImageWrapper country="madeira" image-name="santo"/>
     </template>
 
     <template #long-text>

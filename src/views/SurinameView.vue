@@ -22,22 +22,18 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #images>
-      <ImageWrapper country="azoren" image-name="angra"/>
-      <ImageWrapper country="azoren" image-name="baai"/>
-      <ImageWrapper country="azoren" image-name="caldera"/>
-      <ImageWrapper country="azoren" image-name="capelinhos"/>
-      <ImageWrapper country="azoren" image-name="cidades"/>
-      <ImageWrapper country="azoren" image-name="dorpskerk"/>
-      <ImageWrapper country="azoren" image-name="feest"/>
-      <ImageWrapper country="azoren" image-name="graciosa"/>
-      <ImageWrapper country="azoren" image-name="kaas"/>
-      <ImageWrapper country="azoren" image-name="kratermeer"/>
-      <ImageWrapper country="azoren" image-name="lagoa"/>
-      <ImageWrapper country="azoren" image-name="molens"/>
-      <ImageWrapper country="azoren" image-name="pico"/>
-      <ImageWrapper country="azoren" image-name="tourada"/>
-      <ImageWrapper country="azoren" image-name="weiden"/>
-      <ImageWrapper country="azoren" image-name="woning"/>
+      <ImageWrapper country="suriname" image-name="amazonewoud"/>
+      <ImageWrapper country="suriname" image-name="awarradam"/>
+      <ImageWrapper country="suriname" image-name="galibi"/>
+      <ImageWrapper country="suriname" image-name="indiaanse"/>
+      <ImageWrapper country="suriname" image-name="oerwouddorp"/>
+      <ImageWrapper country="suriname" image-name="palumeu"/>
+      <ImageWrapper country="suriname" image-name="paramaribo"/>
+      <ImageWrapper country="suriname" image-name="paramaribo2"/>
+      <ImageWrapper country="suriname" image-name="paramaribo3"/>
+      <ImageWrapper country="suriname" image-name="paramaribo4"/>
+      <ImageWrapper country="suriname" image-name="schildpad"/>
+      <ImageWrapper country="suriname" image-name="toekan"/>
     </template>
 
     <template #long-text>
