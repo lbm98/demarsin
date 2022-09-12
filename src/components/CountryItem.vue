@@ -1,0 +1,63 @@
+<script setup lang="ts">
+
+</script>
+
+<template>
+  <div class="country-item">
+
+    <div class="country-item-image">
+      <slot name="image"></slot>
+    </div>
+
+    <div class="country-item-side">
+
+      <div class="country-item-title">
+        <slot name="title"></slot>
+      </div>
+
+      <div class="country-item-content">
+        <slot name="content"></slot>
+      </div>
+
+      <button class="country-item-button">Meer</button>
+    </div>
+
+  </div>
+</template>
+
+<style scoped>
+.country-item {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+}
+
+.country-item-image {
+  height: 300px;
+}
+
+.country-item-side {
+  padding: 20px;
+}
+
+.country-item-title {
+  font-size: 28px;
+}
+
+.country-item-content {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.country-item-button {
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 24px;
+}
+
+.country-item-button:hover {
+  background-color: #D9D9D9;
+}
+</style>
