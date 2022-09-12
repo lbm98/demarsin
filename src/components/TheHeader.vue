@@ -119,6 +119,7 @@ let showContactInfo = ref(false);
 }
 
 .reizen-dropdown-content {
+  width: 200px;
   position: absolute;
   z-index: 1;
   background-color: #D9D9D9;

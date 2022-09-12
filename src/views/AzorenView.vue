@@ -1,123 +1,81 @@
 <script setup lang="ts">
 
-import IconDownload from "../components/icons/IconDownload.vue";
-import IconMagnify from "../components/icons/IconMagnify.vue";
+import ImageWrapper from "../components/ImageWrapper.vue"
+import CountryView from "../components/CountryView.vue"
 </script>
 
 <template>
-  <div class="compressed">
-    <div class="title">
+  <CountryView>
+    <template #title>
       Azoren
-    </div>
-    <p class="short-text">De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-      van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-      het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-      Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-      aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-      toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-      van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-      toerisme nu de belangrijkste bron van inkomsten.</p>
-  </div>
+    </template>
 
+    <template #short-text>
+      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
+        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
+        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
+        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
+        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
+        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
+        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
+        toerisme nu de belangrijkste bron van inkomsten.</p>
+    </template>
 
-  <div class="image-container">
+    <template #images>
+      <ImageWrapper country="azoren" image-name="angra"/>
+      <ImageWrapper country="azoren" image-name="baai"/>
+      <ImageWrapper country="azoren" image-name="caldera"/>
+      <ImageWrapper country="azoren" image-name="capelinhos"/>
+      <ImageWrapper country="azoren" image-name="cidades"/>
+      <ImageWrapper country="azoren" image-name="dorpskerk"/>
+      <ImageWrapper country="azoren" image-name="feest"/>
+      <ImageWrapper country="azoren" image-name="graciosa"/>
+      <ImageWrapper country="azoren" image-name="kaas"/>
+      <ImageWrapper country="azoren" image-name="kratermeer"/>
+      <ImageWrapper country="azoren" image-name="lagoa"/>
+      <ImageWrapper country="azoren" image-name="molens"/>
+      <ImageWrapper country="azoren" image-name="pico"/>
+      <ImageWrapper country="azoren" image-name="tourada"/>
+      <ImageWrapper country="azoren" image-name="weiden"/>
+      <ImageWrapper country="azoren" image-name="woning"/>
+    </template>
 
-    <div class="image-wrapper">
-      <img src="@/assets/azoren/angra.jpg">
-      <div class="button-container">
-        <a href="./src/assets/azoren/original/angra.jpg" download="angra" class="download-button">
-          <IconDownload/>
-        </a>
-        <a href="./src/assets/azoren/original/angra.jpg" target="_blank" class="magnify-button">
-          <IconMagnify/>
-        </a>
-      </div>
-    </div>
-
-
-    <img src="@/assets/azoren/baai.jpg">
-    <img src="@/assets/azoren/caldera.jpg">
-    <img src="@/assets/azoren/capelinhos.jpg">
-
-    <img src="@/assets/azoren/cidades.jpg">
-    <img src="@/assets/azoren/dorpskerk.jpg">
-    <img src="@/assets/azoren/feest.jpg">
-    <img src="@/assets/azoren/graciosa.jpg">
-
-    <img src="@/assets/azoren/kaas.jpg">
-    <img src="@/assets/azoren/kratermeer.jpg">
-    <img src="@/assets/azoren/lagoa.jpg">
-    <img src="@/assets/azoren/molens.jpg">
-
-    <img src="@/assets/azoren/pico.jpg">
-    <img src="@/assets/azoren/tourada.jpg">
-    <img src="@/assets/azoren/weiden.jpg">
-    <img src="@/assets/azoren/woning.jpg">
-  </div>
-
-  <div class="compressed">
-
-  </div>
-
+    <template #long-text>
+      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
+      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
+      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
+      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
+      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
+      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
+      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
+      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
+      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
+      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
+      gezicht.
+      <br><br>
+      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
+      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
+      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      <br><br>
+      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
+      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      <br><br>
+      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
+      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
+      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
+      kreeg hierdoor 2,4 km2 nieuw land bij.
+      <br><br>
+      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
+      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
+      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
+      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
+      <br><br>
+      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
+      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+    </template>
+  </CountryView>
 </template>
 
 <style scoped>
-.button-container {
-  position: absolute;
-  left: 0;
-  top: 0;
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
 
-.button-container>a{
-  color: black;
-  text-decoration: none;
-  width: 40px;
-  height: 40px;
-}
-
-
-
-.image-wrapper > img {
-  width: 100%;
-  height: auto;
-}
-
-
-
-.compressed {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.image-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows:repeat(4, 1fr);
-  width: 1000px;
-  grid-gap: 0.5rem;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-}
-
-.image-container > img {
-  width: 100%;
-}
-
-.title {
-  margin-top: 20px;
-  font-size: 36px;
-}
-
-.short-text {
-  margin-top: 20px;
-  font-size: 20px;
-}
 </style>
