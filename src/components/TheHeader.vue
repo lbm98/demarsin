@@ -18,9 +18,21 @@ let showContactInfo = ref(false);
       <div class="reizen-dropdown">
         <button @click="showReizenDropDown = !showReizenDropDown" class="reizen-dropdown-button">Reizen</button>
         <div v-show="showReizenDropDown" class="reizen-dropdown-content">
-          <div>China</div>
-          <div>Kreate</div>
-          <div>Noorwegen</div>
+          <router-link class="country-link" to="/azoren">Azoren</router-link>
+          <router-link class="country-link" to="/balearen">Balearen</router-link>
+          <router-link class="country-link" to="/baltische-staten">Baltische Staten</router-link>
+          <router-link class="country-link" to="/china">China</router-link>
+          <router-link class="country-link" to="/ierland">Ierland</router-link>
+          <router-link class="country-link" to="/ijsland">IJsland</router-link>
+          <router-link class="country-link" to="/kreta-santorini">Kreta Santorini</router-link>
+          <router-link class="country-link" to="/madeira">Madeira</router-link>
+          <router-link class="country-link" to="/nieuw-zeeland">Nieuw-Zeeland</router-link>
+          <router-link class="country-link" to="/noorwegen">Noorwegen</router-link>
+          <router-link class="country-link" to="/portugal">Portugal</router-link>
+          <router-link class="country-link" to="/roemenie">Roemenie</router-link>
+          <router-link class="country-link" to="/slovenie">Slovenie</router-link>
+          <router-link class="country-link" to="/suriname">Suriname</router-link>
+          <router-link class="country-link" to="/taiwan">Taiwan</router-link>
         </div>
       </div>
 
@@ -113,19 +125,18 @@ let showContactInfo = ref(false);
   z-index: 1;
   background-color: #D9D9D9;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-
-  font-size: 18px;
 }
 
-.reizen-dropdown-content > div {
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 3px;
-  padding-bottom: 3px;
+.country-link {
+  padding: 3px 20px;
   cursor: pointer;
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
 }
 
-.reizen-dropdown-content > div:hover {
+.country-link:hover {
   background-color: #cecece;
 }
 
