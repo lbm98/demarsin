@@ -84,14 +84,12 @@ let showContactInfo = ref(false);
 }
 
 .header-top-title {
-  /*text-align: center;*/
   padding-left: 20px;
   font-size: 32px;
 }
 
 .header-bottom {
   display: flex;
-  /*justify-content: space-evenly;*/
   padding-right: 20px;
   gap: 20px;
   justify-content: flex-end;
@@ -107,7 +105,7 @@ let showContactInfo = ref(false);
 }
 
 .presentation-info {
-  font-size: 16px;
+  font-size: 20px;
   padding: 20px;
   background-color: #EDEDED;
 }

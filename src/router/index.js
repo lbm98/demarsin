@@ -9,6 +9,10 @@ const router = createRouter({
       component: HomeView
     },
     {
+      path: '/azoren',
+      component: () => import('../views/AzorenView.vue')
+    },
+    {
       path: '/china',
       component: () => import('../views/ChinaView.vue')
     },
