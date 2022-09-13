@@ -324,9 +324,22 @@ import CountryItem from "@/components/CountryItem.vue";
 
 .image {
   height: 100%;
+  object-fit: contain;
+}
+
+.country-link {
+  position: absolute;
+  margin-top: 10px;
+  padding: 2px 5px;
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
 }
 
 .country-list {
+  padding-left: 50px;
   width: 100%;
   background-color: #EDEDED;
 }
