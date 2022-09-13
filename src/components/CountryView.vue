@@ -36,14 +36,15 @@
 
 .images {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-template-rows:repeat(4, 1fr);
-  width: 1000px;
+  max-width: 1000px;
   grid-gap: 0.5rem;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
 }
+
 
 .images > img {
   width: 100%;
