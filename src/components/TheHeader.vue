@@ -1,5 +1,6 @@
 <script setup>
 import {ref} from "vue";
+import ReizenDropDown from "./ReizenDropDown.vue";
 
 let showReizenDropDown = ref(false);
 let showPresentationsInfo = ref(false);
@@ -15,26 +16,7 @@ let showContactInfo = ref(false);
     </div>
     <div class="header-bottom">
 
-      <div class="reizen-dropdown">
-        <button @click="showReizenDropDown = !showReizenDropDown" class="reizen-dropdown-button">Reizen</button>
-        <div v-show="showReizenDropDown" class="reizen-dropdown-content">
-          <router-link class="country-link" to="/azoren">Azoren</router-link>
-          <router-link class="country-link" to="/balearen">Balearen</router-link>
-          <router-link class="country-link" to="/baltische-staten">Baltische Staten</router-link>
-          <router-link class="country-link" to="/china">China</router-link>
-          <router-link class="country-link" to="/ierland">Ierland</router-link>
-          <router-link class="country-link" to="/ijsland">IJsland</router-link>
-          <router-link class="country-link" to="/kreta-santorini">Kreta Santorini</router-link>
-          <router-link class="country-link" to="/madeira">Madeira</router-link>
-          <router-link class="country-link" to="/nieuw-zeeland">Nieuw-Zeeland</router-link>
-          <router-link class="country-link" to="/noorwegen">Noorwegen</router-link>
-          <router-link class="country-link" to="/portugal">Portugal</router-link>
-          <router-link class="country-link" to="/roemenie">Roemenie</router-link>
-          <router-link class="country-link" to="/slovenie">Slovenie</router-link>
-          <router-link class="country-link" to="/suriname">Suriname</router-link>
-          <router-link class="country-link" to="/taiwan">Taiwan</router-link>
-        </div>
-      </div>
+      <ReizenDropDown/>
 
       <button @click="showPresentationsInfo = !showPresentationsInfo" class="reizen-dropdown-button">Presentaties
       </button>
@@ -116,27 +98,6 @@ let showContactInfo = ref(false);
   cursor: pointer;
   padding: 5px;
   background-color: #D9D9D9;
-}
-
-.reizen-dropdown-content {
-  width: 200px;
-  position: absolute;
-  z-index: 1;
-  background-color: #D9D9D9;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-}
-
-.country-link {
-  padding: 3px 20px;
-  cursor: pointer;
-  display: block;
-  text-decoration: none;
-  color: black;
-  font-size: 20px;
-}
-
-.country-link:hover {
-  background-color: #cecece;
 }
 
 .horizontal-rule{
