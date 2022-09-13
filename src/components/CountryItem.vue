@@ -19,9 +19,11 @@
         <slot name="content"></slot>
       </div>
 
-      <button class="country-item-button">Meer</button>
-    </div>
+      <div class="country-item-link">
+        <slot name="link"></slot>
+      </div>
 
+    </div>
   </div>
 </template>
 

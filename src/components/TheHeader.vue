@@ -10,7 +10,7 @@ let showContactInfo = ref(false);
   <div class="header">
     <div class="header-top">
       <p class="header-top-title">
-        Demarsin-Opsommer
+        <router-link class="country-link" to="/">Demarsin-Opsommer</router-link>
       </p>
     </div>
     <div class="header-bottom">
@@ -57,6 +57,15 @@ let showContactInfo = ref(false);
   width: 100%;
   height: 200px;
   background-color: #D9D9D9;
+}
+
+.country-link {
+  padding: 3px 20px;
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
 }
 
 .header-top {
