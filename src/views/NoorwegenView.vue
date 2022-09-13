@@ -7,18 +7,17 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Noorwegen
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Het zuiden van Noorwegen is een gebied met bergen en hoogplateaus, met dalen en met diepe fjorden. We trekken
+        door Jotunheimen en langs de Sognefjord, waar de mooiste stavkerkjes staan. We bezoeken de steden Oslo en
+        Bergen, het pittoreske stadje Stavanger, de art nouveau-stad Ålesund en Trondheim, de poort tot Noord-Noorwegen,
+        het land van de middernachtzon. De Lofoten zijn eilanden met idyllische vissershaventjes. Tromsø was de
+        thuishaven van de poolreiziger Roald Amundsen. Hammerfest is de meest noordelijke stad van Noorwegen. Karasjok
+        en Kautokeino zijn de belangrijkste Sami-nederzettingen. Het "einde van de weg" bereiken we een eerste maal
+        voorbij Kirkenes, aan de Russische grens. Een tweede maal eindigt de weg op de klippen van de Noordkaap.</p>
     </template>
 
     <template #images>
@@ -37,37 +36,35 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Tijdens de zomer trekken vele landgenoten naar het zuiden, naar de warmte van de zomerzon. Maar wie naar het
+      noorden gaat, kiest voor het licht en voor de magie van de middernachtzon.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      door rivieren en gletsjers. Jotunheimen, het hoogste berggebied van Noorwegen, is op dit ogenblik de best
+      uitgebouwde streek voor wandeltoerisme. Een zeer populaire wandeling is de tocht naar de Galdhøpiggen, 2469 meter
+      hoog. Je kan er ook een tocht maken over Besseggen, een bergkam van waarop je twee meren kan zien. Wandelen op een
+      gletsjertong is een aparte ervaring. Enkele gletsjertongen, de Nigardsbreen en de Briksdalsbreen, liggen in goed
+      bereikbare valleien. De Geirangerfjord, met zijn loodrechte wanden en prachtige watervallen, zou de meest bezochte
+      plaats van Zuid-Noorwegen zijn. In de omgeving van de Sognefjord staan de mooiste stavkerkjes. De kerkjes van
+      Borgund en Urnes hebben portalen die versierd zijn met kunstig houtsnijwerk. We bezoeken Oslo met zijn vele musea,
+      Bergen met "Bryggen", de voormalige handelsplaats van de Duitse Hanzekooplui, het pittoreske stadje Stavanger en
+      de prachtig gerestaureerde art nouveau-stad Ålesund. Het mijnstadje Røros is 's lands grootste museum. In een
+      openluchtspel te Stiklestad maken we kennis met een belangrijk feit uit de Noorse geschiedenis.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Trondheim beschouwt men als de poort tot Noord-Noorwegen, het land van de middernachtzon en van de Sami met hun
+      rendieren. De Lofoten zijn eilanden met schilderachtige landschappen en met idyllische vissershaventjes met de
+      typische rorbuer.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      De stad Tromsø werd ooit "het Parijs van het Noorden" genoemd. Het was de thuishaven van de poolreiziger Roald
+      Amundsen.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
+      Vanuit Alta brengen we een bezoek aan de Sautso-canyon. In een lavvu of een Sami-tent, drinken we koffie bij een
+      gezellige babbel met de gastheer. De belangrijkste Sami-nederzettingen zijn Karasjok en Kautokeino, niet ver van
+      de Noors-Finse grens.
       <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      De meest noordelijke stad, Hammerfest, heeft een ijsvrije haven dank zij de golfstroom. Het "einde van de weg"
+      bereiken we een eerste maal voorbij Kirkenes, aan de Russische grens. Een tweede maal eindigt de weg op de klippen
+      van de Noordkaap, het ultieme doel van veel Noorwegen-reizigers.
+      <br><br>
     </template>
   </CountryView>
 </template>

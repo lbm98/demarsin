@@ -2,7 +2,6 @@
 import {ref} from "vue";
 import ReizenDropDown from "./ReizenDropDown.vue";
 
-let showReizenDropDown = ref(false);
 let showPresentationsInfo = ref(false);
 let showContactInfo = ref(false);
 </script>

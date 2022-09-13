@@ -7,18 +7,21 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Taiwan
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>In de zestiende eeuw ontdekten Portugese zeevaarders een mooi eiland en noemden het “Ilha Formosa”, het huidige
+        TAIWAN.
+        De hoofdstad TAIPEI is een grootstad met hoge torengebouwen, brede lanen, ruime parken en pleinen, zeer druk
+        verkeer maar met een modern en vlot transportsysteem. Het is eveneens een Chinese stad, met schitterende
+        gebouwen in de traditionele stijl van de Chinese paleizen, met kleurrijke tempels vol bedrijvigheid en rook van
+        de vele offerstokjes.
+        <br><br>
+        Taiwan heeft prachtige natuurgebieden en nationale parken. Het park Yangmingshan ligt ten noorden van Taipei en
+        Kenting Nationaal Park in het uiterste zuiden van het eiland. Niet te missen is het Taroko Nationaal Park aan de
+        oostkust, een rivierkloof in een prachtig berglandschap.
+      </p>
     </template>
 
     <template #images>
@@ -39,37 +42,27 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      “Ilha Formosa”, het mooie eiland: die naam kreeg Taiwan van Portugese zeevaarders in de zestiende eeuw. Dit
+      subtropische eiland is net iets groter dan België, maar het heeft wel meer dan 23 miljoen inwoners. Veruit de
+      meeste Taiwanezen zijn Chinezen, immigranten uit vroegere eeuwen en de getrouwen van Chiang Kaishek die, in 1949,
+      het vasteland China ontvluchtte voor Mao Zedong en de oprukkende communisten.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      TAIPEI is de hoofdstad van Taiwan, of van de “Republiek China". Voor de Volksrepubliek van China is Taipei slechts
+      de hoofdplaats van de rebellerende provincie Taiwan. Tapei: een moderne grootstad, met moderne winkels en
+      shoppingcentra, met hoge torengebouwen, met rechte, brede lanen en zeer druk verkeer en toch met ruime parken en
+      pleinen en met een modern en vlot transportsysteem.
+      Maar het is eveneens een Chinese stad, met schitterende gebouwen in de traditionele stijl van de Chinese paleizen,
+      met kleurrijke tempels vol bedrijvigheid en rook van de vele offerstokjes.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
-      <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
-      <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      Het eiland TAIWAN is voor de helft bedekt met bos en voor twee derden nagenoeg onbewoonbaar. In het centrum zijn
+      er bergruggen met hoge toppen, tot net geen vierduizend meter. De oostkust is zeer steil. Rivieren hebben er diepe
+      ravijnen uitgeschuurd. Het tropische zuiden heeft koraalrotsen en aantrekkelijke zandstranden.
+      We bezoeken drie Nationale Parken. Yangmingshan ligt ten noorden van Taipei in een vulkanisch actieve zone. Er
+      zijn warme bronnen en solfataren. De Taroko-kloof, nabij de stad Hualien aan de oostkust, is een indrukwekkende
+      nauwe rivierkloof in een prachtig berglandschap. Het Kenting Nationaal Park is gelegen aan de zuidelijke punt van
+      Taiwan. Het is een zeer populair recreatiegebied.
+      En uiteraard gaan we op zoek naar sporen van de Nederlandse bezetting in de 16de eeuw en naar de cultuur van de
+      aboriginals, de verschillende stammen die het eiland bewoonden voor de komst van de Chinezen.
     </template>
   </CountryView>
 </template>

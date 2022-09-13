@@ -7,18 +7,16 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Baltische Staten
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>De zingende revolutie, een mensenketting, 600 km lang, van Tallinn over Riga tot Vilnius. Zo konden Estland,
+        Letland en Litouwen hun vrijheid terugwinnen in 1991. De historische centra van de drie hoofdsteden zijn UNESCO
+        werelderfgoed. We reisden meerdere malen door de drie Baltische Staten. We reden langs uitgestrekte velden en
+        bossen en we bezochten de Nationale Parken .We gingen op zoek naar cultureel erfgoed uit de verschillende
+        periodes van de rijke geschiedenis. Zelfs de zwarte bladzijden van de Sovjettijd gaan we niet uit de weg. We
+        belichten eveneens de tradities van etnische minderheden. De Baltische Staten, het ontdekken overwaard.</p>
     </template>
 
     <template #images>
@@ -33,37 +31,31 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Estland, Letland en Litouwen... de Baltische Staten, een naam die verwijst naar de periode onder de heerschappij
+      van het Russische Keizerrijk. Na de oktoberrevolutie in 1917 en de burgeroorlog die daar op volgde, konden de
+      Baltische staten zich honderd jaar geleden, in 1918, onafhankelijk verklaren. Na de Tweede Wereldoorlog worden de
+      Baltische staten door de Sovjetunie bezet. De russificatie wordt een periode van terreur door de KGB. Van de
+      bevolking kwam er geweldloos verzet, de "Zingende Revolutie". Het hoogtepunt, in 1989, was de “Baltische Weg", een
+      mensenketting, van Vilnius, over Riga, tot Tallinn, 600 km lang, twee miljoen deelnemers. Het resulteerde in het
+      herstel van hun onafhankelijk in 1991. In 2004 traden de landen toe tot de EU en de NAVO, in 2007 tot de
+      Schengenzone. Enkele jaren later voerden ze de Euro in. De historische centra van de drie hoofdsteden staan op de
+      lijst van UNESCO werelderfgoed.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Litouwen, twee maal België, is het grootse van de drie landen. Niet ver van de hoofdstad Vilnius bevindt zich het
+      geografisch centrum van Europa. Grootvorstendom Litouwen kende de grootste bloei in de 15de eeuw onder Vytautas de
+      Grote. De belangrijkste steden zijn Vilnius, Kaunas, Klaipéda en Šiauliai, bekend door de aangrijpende
+      Kruisenheuvel. Van de vele historische gebouwen verdienen de middeleeuwse burchten van Trakai en Kaunas onze
+      aandacht. Het Nationaal Park “de Koerse Schoorwal” , is eveneens UNESCO erfgoed. Nobelprijswinnaar Thomas Mann had
+      er een zomerverblijf. In het Nationaal Park Žemaitija verborgen de Sovjets hun lanceerbasis voor kernkoppen die
+      gericht waren op de grote westerse steden.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Letland is iets kleiner dan Litouwen. De hoofdstad Riga was, als bloeiende Hanzehaven, een rijke stad. Begin 20ste
+      eeuw bouwde men nieuwe wijken met gebouwen in schitterende art nouveau stijl. Mikhail Eisenstein was een van de
+      belangrijke architecten. Het noorden van Letland behoorde tot het vroegere Lijfland, een gebied met een eigen taal
+      en cultuur. In de kuststreek rond Mazirbe houdt men de Lijfse cultuur nog levendig met een jaarlijks festival. Een
+      mooi natuurgebied, met tal van recreatiemogelijkheden, is het Gaujas Nationaal Park. Daar situeert zich de legende
+      rond “De roos van Turaida”.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
-      <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
     </template>
   </CountryView>
 </template>

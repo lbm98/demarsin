@@ -60,8 +60,8 @@
 }
 
 .long-text{
-  margin-top: 20px;
-  padding-bottom: 40px;
+  margin-top: 40px;
+  padding-bottom: 30px;
   font-size: 20px;
 }
 </style>

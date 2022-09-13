@@ -7,18 +7,20 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Slovenië
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Slovenië biedt adembenemende landschappen, prachtige grotten, glooiende wijngaarden… en stille getuigen van een
+        bewogen geschiedenis. Slovenië, het meest welvarende deel van het Joegoslavië onder Tito, verklaarde zich
+        onafhankelijk in 1991. Het land trad toe tot de EU in 1994 en tot de eurozone in 2007.
+
+        De Alpen vormen de grens met Oostenrijk met als hoogste top de Triglav (2864 m). We bezoeken Bled, de grotten
+        van Postojna en Škocjan en de lipizzanerpaarden te Lipica. Er is 50 km kust met de Venetiaanse stadjes Koper,
+        Izola en Piran.
+
+        Uiteraard bezoeken we Ljubljana, als Europese hoofdstad klein maar fijn. In Maribor groeit, naar men zegt, de
+        oudste wijnstok ter wereld. Een goede reden om de druiven feestelijk te oogsten.</p>
     </template>
 
     <template #images>
@@ -37,37 +39,29 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Slovenië bekoort de bezoeker met adembenemende berglandschappen, prachtige grotten, glooiende wijngaarden… En
+      daarin staan de stille getuigen van een bewogen geschiedenis. Het kleine gebied ten zuiden van de Alpen kwam in
+      handen van Romeinen, Franken en Magyaren. Daarna behoorde het gebied 600 jaar lang, tot het einde van WO I, tot de
+      Habsburgse dynastie. Ook de recente geschiedenis van Slovenië, de periode van de twee wereldoorlogen en daarna als
+      deel van Joegoslavië, heeft sporen nagelaten. Aan oorlogsmonumenten is er geen gebrek.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Slovenië, het meest welvarende deel van het Joegoslavië onder Tito, verklaarde zich onafhankelijk in 1991. Het
+      land trad toe tot de EU in 1994 en tot de eurozone in 2007.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Slovenië is een derde kleiner dan België en telt slechts 2 miljoen inwoners. De Alpen vormen de grens met
+      Oostenrijk. Het hooggebergte, met als hoogste top de Triglav (2864 m), is een natuurgebied, een paradijs voor
+      wandelaars en liefhebbers van adrenalinesporten.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      Slovenië is een derde kleiner dan België en telt slechts 2 miljoen inwoners. De Alpen vormen de grens met
+      Oostenrijk. Het hooggebergte, met als hoogste top de Triglav (2864 m), is een natuurgebied, een paradijs voor
+      wandelaars en liefhebbers van adrenalinesporten.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
+      Uiteraard bezoeken we Ljubljana, als Europese hoofdstad klein maar fijn. Barok, Art Nouveau, Socialistisch
+      Realisme... tot hippiecultuur, je vindt het er allemaal.
       <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      In Maribor was Europese Culturele Hoofdstad in 2012. Hier groeit, naar men beweert, de oudste wijnstok ter wereld.
+      Een goede reden om deze druiven in een feestelijke sfeer te oogsten.
+      <br><br>
     </template>
   </CountryView>
 </template>

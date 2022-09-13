@@ -7,18 +7,16 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Suriname
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Suriname, Zuid-Amerika, bijna op de evenaar, en toch: hier spreekt men Nederlands !!! Het half miljoen
+        Surinamers woont vooral in de kuststrook en in de hoofdstad Paramaribo, UNESCO Werelderfgoed. Suriname is
+        beslist een rijk land… althans wat de bodem betreft. Die is rijk aan goud, bauxiet en petroleum. De geladen
+        geschiedenis bracht een multi-etnische bevolking voort: Indianen, Boscreolen, Chinezen, Hindoestanen, Javanen…
+        Boeiend zijn een bezoek aan de kleine dorpen in het Amazonewoud, een excursie naar de oude plantages en naar de
+        stranden waar grote zeeschildpadden hun eieren komen leggen.</p>
     </template>
 
     <template #images>
@@ -37,37 +35,37 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Suriname, een land met het Nederlands als officiële taal, is gelegen in Zuid-Amerika, net boven de evenaar tussen
+      de twee Guyana's in en met Brazilië als zuiderbuur. Het land, 5 maal groter dan België, heeft slechts een half
+      miljoen inwoners.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      De ontdekking van Suriname in 1499 staat op naam van Alonso de Hojeda, een Spaans ontdekkingsreiziger. In de
+      straten van de hoofdstad Paramaribo is de koloniale geschiedenis van het land zichtbaar aanwezig.
+      <br>
+      Het historisch centrum maakt sedert 2002 deel uit van het UNESCO Werelderfgoed. Typisch zijn er de houten huizen
+      op een bakstenen basis. Hollandse bakstenen, als ballast meegenomen op de vaart naar Suriname. Steeds meer van
+      deze 18de-eeuwse huizen worden gerestaureerd.
+      <br>
+      Het Fort Zeelandia is een symbool van Suriname als Nederlandse kolonie. Dit fort ligt naast het vroegere
+      Oranjeplein, dat na de onafhankelijkheid in 1975 tot Onafhankelijkheidsplein omgedoopt is.
+      <br>
+      Voor het gebouw van het "Ministerie van Financiën" staat de imposante Jopie Pengel, de eerste premier van Creoolse
+      afkomst.
+      <br>
+      De Palmentuin van het voormalig paleis van de gouverneurs, een gebouw van 1730, staat open voor het publiek.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      De bloei van Paramaribo was te danken aan de honderden plantages langs de waterlopen in het noorden van het land.
+      Naast suiker werd ook koffie, katoen en cacao verbouwd. Voor het zware werk op de plantages kochten de eigenaars
+      slaven aan op de Afrikaanse slavenmarkten. Na de afschaffing van de slavernij in 1863 deed men beroep op
+      contractarbeiders, eerst Chinezen, later Hindoestanen en Javanen. Samen met de inheemse Indianenstammen, vormde er
+      zich een multiculturele samenleving waarin de verschillende bevolkingsgroepen en religies verdraagzaam naast
+      elkaar leven.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      Het overgrote deel van Suriname is bedekt met tropisch regenwoud dat deel uitmaakt van het Amazone oerwoud. Het
+      klimaat met tropische temperaturen en voldoende neerslag zorgt voor een rijke fauna en flora en een grote
+      biodiversiteit. Boeiend zijn een bezoek aan de kleine dorpen in het Amazonewoud, een excursie naar de oude
+      plantages en naar de stranden waar grote zeeschildpadden hun eieren komen leggen.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
     </template>
   </CountryView>
 </template>

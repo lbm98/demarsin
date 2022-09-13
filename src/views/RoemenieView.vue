@@ -7,18 +7,17 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Roemenië
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Roemenië, voor velen onbekend, dus onbemind. Een land met een prachtige natuur. Een derde is bergland, met
+        toppen over de 2000 meter: de Karpaten. Al het water vloeit er richting Donau, door nauwe kloven en in brede
+        valleien. De machtige stroom vormt de grens met Servië en Bulgarije en mondt uit in de Zwarte Zee. De
+        Donaudelta, een vogelparadijs met een rijke flora en fauna, is beschermd als "Reservaat van de Biosfeer".
+        Roemenië, ooit het land van de Daciërs, veroverd door de Romeinen, zoals de naam en de taal laten vermoeden.
+        Later vestigden er zich ook Saksen en Hongaren, Turken en Slaven en een niet onbelangrijke groep Roma. Roemenië,
+        een multicultureel en meertalig lappendeken.</p>
     </template>
 
     <template #images>
@@ -37,37 +36,34 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Roemenië: voor velen onbekend, dus onbemind. Een land met een prachtige natuur. Een derde is bergachtig, met
+      toppen over de 2000 meter: de Karpaten. Al het water vloeit er richting Donau, door nauwe kloven, in brede
+      valleien. De machtige stroom vormt de grens met Servië en Bulgarije en mondt uit in de Zwarte Zee. De Donaudelta,
+      een waaier van grote en kleine kanalen, een vogelparadijs met een rijke flora en fauna, beschermd als “Reservaat
+      van de Biosfeer”.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Het leven op het platteland is soms een stap terug in het verleden. Werken op het veld is er zware arbeid. Maar
+      veel mensen zijn er open, vriendelijk en uiterst gastvrij.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Roemenië, een land met een bewogen geschiedenis, overspoeld door vele verschillende volkeren: Daciërs, overwonnen
+      door de Romeinen, zoals de naam en de taal laten vermoeden. Later kwamen er ook Saksen en Hongaren, Turken en
+      Slaven en een niet onbelangrijke groep Roma.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      Roemenië, multicultureel en meertalig lappendeken, heeft veel te bieden:
+      <ul>
+        <li>De Saksische, middeleeuwse steden van Transsylvanië met de typische weerkerken.</li>
+        <li>De houten kerkjes en folklore van Maramureş</li>
+        <li>De kerken van Bukovina, Moldavië, van binnen en van buiten beschilderd met fresco’s.</li>
+        <li>De kastelen en burchten in dit land van Vlad Tepeş, alias Dracula.</li>
+        <li>De hoofdstad Boekarest: de oude stad, het Ceauşescu-verleden en de revolutie.</li>
+      </ul>
+      <br>
+      Roemenië bezit een derde van alle minerale en warmwaterbronnen van Europa. Niet minder dan 3000 zijn er, verspreid
+      over het hele land. In het begin van onze jaartelling hadden de Romeinen reeds een aantal bronnen tot kuuroord
+      uitgebouwd. Vandaag de dag zijn er een 70-tal kuuroorden met water waaraan allerlei geneeskrachtige eigenschappen
+      worden toegeschreven.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      En Roemenië is een belangrijke wijnproducent. Mooi meegenomen!
     </template>
   </CountryView>
 </template>

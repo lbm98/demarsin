@@ -7,18 +7,19 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Kreta Santorini
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking van het paleis te
+        Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In het eerste deel
+        verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren, Byzantijnen,
+        Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na.
+
+        In het tweede deel gaat onze aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De
+        Witte Bergen hebben de hoogste toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als
+        Nationaal Park. Slechts een vierde van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn,
+        citrusvruchten en tomaten; toch is toerisme nu de belangrijkste bron van inkomsten.</p>
     </template>
 
     <template #images>
@@ -37,37 +38,38 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. Familie-intriges, triomfen en
+      nederlagen van de vele personages zijn met zoveel details weergegeven dat ze geschiedkundige verhalen lijken te
+      zijn. Zeus werd op Kreta geboren, in een grot van het Idagebergte. In het geheim groeide hij er op tot man. Deze
+      heerser van de Olympos wordt veelal getypeerd als geweldenaar en als groot verleider. Vermomd als een witte stier
+      ontvoerde hij Europa, een Fenicische koningsdochter. Hij zwom met haar naar Kreta en nam haar tot gemalin. Hun
+      zoon Minos werd koning van het eiland. De mythologie zal ongetwijfeld sporen dragen van gebeurtenissen die zich
+      zeer vroeg in de geschiedenis hebben afgespeeld. De ontdekking van het Minoïsch paleis te Knossos in het begin van
+      de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Hoe is de Minoïsche cultuur ten onder gegaan? Een van de hypothesen leidt ons naar het eiland Santorini dat 120 km
+      meer noordwaarts ligt. De streek werd omstreeks 1500 voor Christus door een reeks aardschokken getroffen. Daarna
+      kwam de vulkaan Thera tot uitbarsting en ontplofte. Een enorme vloedgolf overspoelde het eilandengebied en
+      verwoestte de nederzettingen aan de kust van Griekenland, Kreta en Klein-Azië. De Minoïsche beschaving overleefde
+      de klap niet. Santorini is nu misschien wel het meest toeristische van de Griekse eilanden.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      De rest van de geschiedenis van Kreta was minder roemrijk. Vreemde overheersers brachten soms welvaart en rijkdom,
+      maar ook vernieling en veel slachtoffers mede door het verbeten verzet van vrijheidsstrijders. Grieken, Romeinen,
+      Moren, Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. En ook Paulus kwam op
+      Kreta terecht en bracht de kerstening aan de gang. Het eerste deel is een verkenning van Kreta en Santorini met de
+      geschiedenis als rode draad.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      In het tweede deel gaat onze aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. Het
+      landschap wordt bepaald door een aantal belangrijke bergketens. Het Ida- en het Diktigebergte met hun vele grotten
+      betwisten elkaar de geboorteplaats van Zeus. De Witte Bergen in het zuidwesten hebben de hoogste toppen en de
+      diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde van het land
+      is geschikt voor landbouw. Kreta produceert voornamelijk olijfolie, wijn, citrusvruchten en tomaten. Er wordt ook
+      steeds meer aan serreteelt gedaan. Vroeger was Kreta rijk bebost. Roofbouw werkte erosie in de hand. Grote kudden
+      geiten en schapen zijn een probleem bij projecten van herbeplanting. Zandstranden zijn er vooral aan de noordkust.
+      Lokale ambachten zijn op toerisme afgestemd: pottenbakken, weven, haken en borduren lijken bezigheden om de vele
+      winkeltjes gevuld te krijgen. Na de Arabische piraten en de Venetiaanse kolonisten zijn het nu de moderne
+      toeristen die het leven op Kreta ingrijpend veranderen.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
     </template>
   </CountryView>
 </template>

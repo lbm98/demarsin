@@ -7,18 +7,16 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Ierland
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>IJs, wind en water vormden het prachtige Ierse landschap. De invloed van de Golfstroom geeft Ierland zijn
+        groene kleur. Kelten en Vikings drukten hun stempel op de Ierse Cultuur. Ierland werd vroeg gekerstend. Ierse
+        Monniken verspreidden het Christendom over West-Europa. De invasie van Anglo-Normandiërs was het begin van een
+        eeuwenlange onderdrukking. Een lange en bloedige vrijheidsstrijd leidde tot de onafhankelijkheid in 1922.
+        Ierland is een landbouwland met sterke tradities. Jaarmarkten brengen nog steeds veel volk op de been.
+        Mysterieuze verhalen waren een rijke inspiratiebron voor grote figuren uit de wereldliteratuur.</p>
     </template>
 
     <template #images>
@@ -37,37 +35,39 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Waarom trekt het druilerige Ierland zoveel bezoekers aan? Zijn het de stille getuigen van 5000 jaar geschiedenis,
+      de soms woeste natuur, de eigen cultuur, de kleurrijke dorpjes of de zo gekende Ierse muziek? En wat heeft Ierland
+      gemeen met Vlaanderen?
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Ierland telt vele prehistorische monumenten: grafmonumenten, waaronder het vermaarde Passagegraf van Newgrange,
+      dolmens, menhirs, ringforten…
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      De Heilige Patrick was een belangrijke figuur in de kerstening van Ierland. Al vroeg ontstonden de eerste
+      primitieve kloosters, zoals op het monnikeneiland Skellig Michael, nu UNESCO Werelderfgoed. Later kwamen er ronde
+      torens en de bekende Ierse kruisen: Glendalough, Monasterboice, Clonmacnoise, Cashel …
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      Verschillende kloosterordes hebben er vele abdijen gesticht. Toen Hendrik VIII zich losscheurde van Rome, volgde
+      de verwoesting van alles wat katholiek was. Het resultaat was een land vol ruïnes.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
+      De jaarlijkse bedevaart naar de top van de Croagh Patrick verwijst nog altijd naar de christelijke traditie van de
+      Ieren.
       <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      Tijdens de Middeleeuwen bestreden rivaliserende machthebbers elkaar vanuit hun kastelen. In de 19de eeuw leefden
+      vele Ieren in schrijnende armoede. Na de mislukte aardappeloogst bracht de hongersnood een massale emigratie naar
+      Amerika op gang. Na eeuwen van onderdrukking door de Engelse overheerser was de Paasopstand in 1916 een keerpunt
+      in de strijd naar onafhankelijkheid.
+      <br><br>
+      In het groene Ierland zijn landbouw en vooral veeteelt zeer belangrijk. De vele agrishows zijn zeer populaire
+      evenementen. De Puckfair in Killorglin is het oudste festival van Ierland.
+      <br><br>
+      Ierland heeft meerdere bekende schrijvers en dichters voortgebracht. Bloomsday in Dublin is een eerbetoon aan
+      James Joyce, een van de vier Ierse Nobelprijswinnaars voor Literatuur.
+      <br><br>
+      Op vele plaatsen, ondermeer in het Brian Boru Centrum te Cashel, kan men een voorstelling bijwonen met
+      traditionele Ierse muziek en dans.
+      <br><br>
+      Een zeer volledig beeld van heel Ierland schetsen was onze bedoeling.
+      <br><br>
     </template>
   </CountryView>
 </template>

@@ -7,18 +7,17 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Portugal
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
+        vakantiebestemmingen voor zonnekloppers en liefhebbers van natuurschoon. En voor wie de cultuur en de tradities
+        van Portugal wil ontdekken, is er een ruime keuze aan culturele bezienswaardigheden en activiteiten. De
+        wijngaardterrassen van de Alto Douro, UNESCO Werelderfgoed, leveren de vermaarde portwijn. En elke regio heeft
+        zijn traditioneel gerecht. Naast de teelt van druiven en olijven is Portugal ook bekend voor de productie van
+        kurk, grondstof voor een groot aantal toepassingen. We hebben aandacht voor het leven van elke dag en voor de
+        bijzondere momenten, zoals de religieuze en profane feesten.</p>
     </template>
 
     <template #images>
@@ -35,37 +34,30 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
+      vakantiebestemmingen. Een kustlijn van bijna 1000 km biedt tal van mogelijkheden aan zonnekloppers en liefhebbers
+      van allerhande watersporten. Maar er is meer natuurschoon dan de kust met witte stranden en prachtige klippen.
+      Peneda-Gerês is een Nationaal Park in het bergachtige noordwesten van Portugal. Daarnaast zijn er tal van
+      natuurparken, natuurreservaten en natuurmonumenten met een grote verscheidenheid aan planten en dieren. De
+      wijngaardterrassen van de Alto Douro, UNESCO Werelderfgoed, leveren de vermaarde portwijn. Een aantal andere
+      Portugese wijnen genieten eveneens internationale erkenning. Naast de teelt van druiven en olijven is Portugal ook
+      bekend voor de productie van kurk, grondstof voor een groot aantal toepassingen.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Voor wie de cultuur en de tradities van Portugal wil ontdekken, is er een ruime keuze aan culturele
+      bezienswaardigheden en activiteiten. De geschiedenis van Portugal begint in de vroege prehistorie. Getuigen
+      hiervan zijn de vele prachtige megalitische monumenten. Uit de Romeinse periode kan men resten van steden en
+      andere bouwwerken bezoeken. Belangrijke cultuurparels zijn opgenomen in de lijst van het UNESCO Werelderfgoed. We
+      verkennen de historische centra van Lisboa, Porto, Guimarães en Évora, de universiteit van Coimbra, de versterkte
+      grensstad Elvas, de kloosters en paleizen van Sintra, Batalha, Tomar, Alcobaça en uiteraard ook Belém. Daar willen
+      de talrijke bezoekers van de “Torre de Belém" ook de vermaarde "Pastéis de Belém" proeven. We mochten het
+      fabricatieproces filmen, maar het recept bleef uiteraard geheim. De Portugese keuken is zeer gevarieerd. Elke
+      regio heeft zijn traditioneel gerecht.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Bacalhau, gedroogde kabeljauw, staat op elke menukaart. Daarnaast zijn er de gegrilde sardines en de talrijke
+      stoofpotjes met vlees van varken, lam, kip of rund.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
-      <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      We hebben aandacht voor het leven van elke dag en voor de bijzondere momenten, zoals de religieuze en profane
+      feesten.
     </template>
   </CountryView>
 </template>

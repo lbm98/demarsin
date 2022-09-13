@@ -7,18 +7,16 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Balearen
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Een eigen historische ontwikkeling en de verschillen in reliëf en neerslag maken elk eiland weer anders.
+        Majorca, het grootste eiland, heeft de meest gevarieerde natuur. De hoofdplaats Palma getuigt van een welvarend
+        verleden. Menorca heeft een uitgesproken landelijk karakter met imposante overblijfselen uit de verre
+        prehistorie: taula's, talayot's en naveta's... Ibiza, het witte eiland, met een schril contrast tussen drukke
+        toeristische stranden en de rust van het platteland. Formentera: stranden, een molen... je bezoekt het in 1
+        dag... met de fiets.</p>
     </template>
 
     <template #images>
@@ -41,37 +39,37 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Alle eilanden in de Middellandse Zee werden overspoeld door verschillende culturen. Ook de Balearen zijn daar niet
+      aan ontsnapt. Alhoewel de eilanden vrij dicht bij elkaar liggen, hebben ze elk een eigen ontwikkeling doorgemaakt.
+      Verschillen in breedteligging, in reliëf en dus ook in neerslag, maakt dat elk eiland weer anders is.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Majorca is het grootste van de eilanden en bezit de meest verscheidene landschappen. Het noordwesten is afgezoomd
+      door een opvallende bergketen met steile flanken. Hierdoor ligt het grootste deel van Majorca beschermd tegen de
+      koude en vochtige winden uit het noorden en het westen. Het centrale deel van Majorca is vlak. Het water uit de
+      bergen maakt een bloeiende landbouw mogelijk. Het is de meest rustige plaats van het eiland. Toeristen vind je
+      vooral aan de zuid- en de oostkust. Majorca behoort tot de belangrijkste toeristische gebieden in Europa. Het
+      eiland kende een bewogen geschiedenis: Carthagers, Romeinen, Byzantijnen en Moren wisselden elkaar af. Elke
+      cultuur kende zijn hoogtepunt en liet zijn sporen na. In 1230 werden de Moren van het eiland verdreven. Er werden
+      nieuwe steden gesticht en op de heuveltoppen in de centrale vlakte bouwde men kloosters. Het kartuizerklooster van
+      Valdemosa werd bekend omdat Chopin er een winter in doorbracht. Hij componeerde er ondermeer zijn Préludes. De
+      hoofdstad Palma is rijk aan historische monumenten. Je hebt meerdere dagen nodig om de sfeervolle havenstad te
+      bezoeken. Hier vertrekt een spoorweg die loopt tot in Soller, aan de andere kant van de bergen.
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Menorca is het tweede eiland wat grootte betreft. Slechts één heuvel torent boven de vlakte uit. De wind heeft
+      vrij spel over het land zodat het er in de zomer nooit te warm is. Op de meest onverwachte plaatsen kan je
+      overblijfselen uit de prehistorie aantreffen. Er staan talrijke taula's, talayots, en naveta's over het eiland
+      verspreid. Enkele grote boerderijen zijn opvallend goed onderhouden. Toerisme is niet de belangrijkste troef van
+      Menorca, wel landbouw en veeteelt. Men maakt er ook lekkere kaas en er zijn enkele schoenfabriekjes.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      Ibiza is met zijn witgekalkte huizen het meest zuiderse van de eilanden. Het eiland heeft een uitgesproken
+      landelijk karakter, een beetje primitief volgens sommigen. Enkel aan de kust en in de hoofdstad merk je dat Ibiza
+      van toerisme leeft. Het contrast tussen de drukke toeristische stranden tijdens de zomermaanden en de rust van het
+      platteland is hier sterker dan op de andere eilanden.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
+      Formentera is slechts een smalle strook land gelegen op één uur varen vanuit Ibiza. Vroeger kweekte men er graan.
+      Nu leeft men er hoofdzakelijk van toerisme: er zijn uitgestrekte zandstranden waar de zomerzon altijd van de
+      partij is. Vanuit Ibiza kan je de oversteek maken om in één dag het eilandje te bezoeken... met de fiets!
       <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
     </template>
   </CountryView>
 </template>

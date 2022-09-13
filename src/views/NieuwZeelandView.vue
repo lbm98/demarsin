@@ -7,18 +7,16 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Nieuw-Zeeland
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>Aotearoa, land van de lange witte wolk, zo noemden de Maori’s hun land. Twee derden van de Nieuw-Zeelanders, de
+        Kiwi's, wonen op het Noordereiland, met Wellington en Auckland als belangrijkste steden. Rotorua staat voor
+        Maoricultuur en voor vulkanische activiteit. Het Zuidereiland is een wereld apart met hoge bergen, diepe
+        fjorden, blauwe meren, paradijselijke zandstranden en met veel, heel veel schapen. Nieuw-Zeeland, het decor voor
+        "the Lord of the Rings". Een land voor avonturiers: vroeger de goudzoekers, nu de bungy-springers, skydivers,
+        rafters... en globetrotters.</p>
     </template>
 
     <template #images>
@@ -37,37 +35,30 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      Aotearoa, het land van de lange witte wolk, een eilandengroep aan de andere kant van de wereldbol. Het land van de
+      Maori's, Polynesiërs die er zich zowat duizend jaar geleden vestigden. In 1642 ontdekt door Abel Janszoon Tasman
+      en 100 jaar later door James Cook in kaart gebracht en aan de Britse Kroon "geschonken".
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      De vier miljoen Nieuw-Zeelanders laten zich graag Kiwi’s noemen. Twee derden van hen wonen op het Noordereiland
+      dat 4 maal groter is dan België. Onze tocht begint in Northland met de kauribossen. De stad Auckland is de
+      grootste van Nieuw-Zeeland. Het schiereiland Coromandel heeft prachtige zandstranden. Rotorua staat voor de
+      Maoricultuur, maar evenzeer voor vulkanische activiteit, kratermeren, warme bronnen en geisers. We bezoeken de
+      drie vulkanen in het Tongariro Nationaal Park, de grotten van Waitomo en het karstlandschap van King Country. We
+      gaan een kijkje nemen tijdens de "Fielddays", een landbouwbeurs in Hamilton. We wandelen in de art-decostad Napier
+      en naar Cape Kidnappers met de kolonies jan-van–genten. Wellington is de hoofdstad van Nieuw-Zeeland. In de
+      omgeving zijn er locaties die Peter Jackson gebruikte voor de verfilming van Tolkiens "The Lord of the Rings".
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      In het tweede deel verkennen we het Zuidereiland, vijf maal België, een wereld apart. Het is een uitgestrekt
+      natuurgebied met een groot aantal Nationale Parken. Het Abel Tasman Park is een populair wandelgebied met
+      idyllische baaien en stranden. In de Nieuw-Zeelandse Alpen, een bergketen met vele gletsjers, is Mount Cook de
+      hoogste top, 3754 meter. We bezoeken Milford Sound in het Fjordland Nationaal Park en de Canterbury Plains met de
+      vele kudden schapen. We treffen er erg verschillende steden aan: Queenstown, hoofdstad van de adrenaline, en de
+      omgeving met een "goudverleden"; Christchurch, en de "Landbouw- en Veeteeltshow" met ongewone kampioenschappen;
+      Dunedin, een stad met Schotse roots en banden met “Passchendaele”; Oamaru in de sfeer van de "Victorian Days"; het
+      zonnige Nelson en de wijnstreek nabij Kaikoura.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
-      <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      Nieuw-Zeeland, het decor voor "the Lord of the Rings". Een land voor avonturiers allerhande: vroeger de
+      goudzoekers, nu de bungy-springers, skydivers, rafters ... en globetrotters
     </template>
   </CountryView>
 </template>

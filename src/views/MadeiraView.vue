@@ -7,18 +7,19 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      Madeira
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>MADEIRA, parel in de Atlantische Oceaan, drijvende tuin, bloemenparadijs... Deze omschrijvingen dankt het
+        eiland aan zijn mild klimaat. Madeira werd een druk centrum voor de handel in suiker en kleurstoffen. Vlaanderen
+        was een belangrijke handelspartner. Musea en kerken bezitten Vlaamse kunstwerken uit de 16de eeuw. Op de
+        berghellingen zijn terrassen aangelegd voor de landbouw. Een uitgebreid netwerk van kanalen of levada’s, zorgt
+        voor de bevloeiing. Toerisme is nu de grootste bron van inkomsten voor Madeira. Het is een paradijs voor
+        wandelaars. De tocht van de Pico Ruivo naar de Pico do Arieiro is een topper.
+
+        Veertig kilometer ten noordoosten van Madeira, ligt er een kleiner eiland: PORTO-SANTO. Het gouden zand en het
+        blauwe water maken van dit eiland een paradijs voor zonnekloppers.</p>
     </template>
 
     <template #images>
@@ -37,37 +38,34 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      MADEIRA, parel in de Atlantische Oceaan, drijvende tuin, bloemenparadijs... Deze omschrijvingen dankt het eiland
+      aan zijn mild klimaat: 's winters is het er nooit te koud en 's zomers nooit te warm. Bovendien heeft Madeira een
+      vruchtbare bodem en voldoende water. Toen het eiland in de 15de eeuw gekoloniseerd werd onder impuls van Hendrik
+      De Zeevaarder, was het dicht begroeid met bomen en struiken, vandaar de naam "Madeira", wat "hout" betekent.
+      Madeira werd een druk centrum waar suiker en kleurstoffen verhandeld werden. Vlaanderen was één van zijn
+      belangrijkste handelspartners. Suiker werd geruild tegen kunstwerken. In musea en kerken tref je nu nog Vlaamse
+      schilderijen en beeldhouwwerken uit de 16de eeuw aan.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
+      Madeira heeft steeds gepoogd om economisch onafhankelijk te zijn van Portugal. Op de berghellingen zijn terrassen
+      aangelegd om aan landbouw te doen. Een uitgebreid netwerk van kanalen zorgt voor de aanvoer van water. Van
+      suikerriet maakt men nog steeds suikerriethoning voor de speciale honingcake. En vergeten we de wereldberoemde
+      Madeirawijn niet. Er zijn ook twee bloeiende huisindustrieën: het borduren van linnen en het vlechten van
+      wilgentenen tot gebruiks- en siervoorwerpen…
       <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
+      Toerisme is de grootste bron van inkomsten voor Madeira. Het is een eiland met gastvrije en vriendelijke mensen,
+      met een prachtige natuur en een paradijselijke begroeiing. Er wordt druk gewerkt aan de uitbreiding van de
+      luchthaven en aan de bouw van nieuwe hotels. Madeira is een paradijs voor wandelaars. Vooral wandelingen langs de
+      levada 's zijn er populair. En je kan er ook bergwandelingen maken. De tocht van de Pico Ruivo naar de Pico do
+      Arieiro is een topper.
       <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
+      Naast Madeira, op een 40 -tal kilometer naar het noordoosten toe, ligt er een kleiner eiland: PORTO-SANTO. Dit
+      eiland werd een jaar vroeger ontdekt dan Madeira. Porto-Santo is klein en vrij vlak, op enkele pieken na. Die
+      vulkaantoppen bieden je mooie vergezichten over het eiland. De begroeiing is er eerder schraal. De overheersende
+      kleur is oker, de kleur van de woestijn. Tijdens de vochtige wintermaanden ziet het landschap er tijdelijk groen
+      uit. De grootste troef van Porto-Santo is ongetwijfeld het prachtige zandstrand. Aan het gouden zand worden
+      wonderlijke krachten toegeschreven. De vrij stabiele temperatuur op Porto-Santo, de geringe neerslag, het gouden
+      zand en het blauwe water maken van dit eiland een paradijs voor zonnekloppers.
       <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
     </template>
   </CountryView>
 </template>

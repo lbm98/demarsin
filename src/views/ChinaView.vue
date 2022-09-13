@@ -7,18 +7,16 @@ import CountryView from "../components/CountryView.vue"
 <template>
   <CountryView>
     <template #title>
-      Azoren
+      China
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-        van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In
-        het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-        Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-        aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de hoogste
-        toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een vierde
-        van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-        toerisme nu de belangrijkste bron van inkomsten.</p>
+      <p>China, de gesloten wereld van weleer, is resoluut de snelweg van de modernisering ingeslagen. Op veel plaatsen
+        dreigt de sfeer van het traditionele China te verdwijnen. Eerst verkennen we drie belangrijke steden: Shanghai,
+        Beijing, en Xi’an, wereldberoemd omwille van het Terracotta leger. We bezoeken onderweg de cultuurhistorisch
+        belangrijke plaatsen en hebben oog voor de natuur. Daarna bezoeken we het zuidelijk deel van China met de
+        etnische minderheden, Tibet, sites met UNESCO Werelderfgoed, bekende natuurmonumenten en tot slot Macao en Hong
+        Kong.</p>
     </template>
 
     <template #images>
@@ -37,37 +35,51 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Midden in de Atlantische Oceaan, niet helemaal halfweg tussen Lissabon en New-York, liggen negen kleine eilanden: de
-      Azoren. Vroeger werden ze de Vlaamse Eilanden genoemd; ze werden immers in de 15de eeuw gekoloniseerd door
-      Portugezen en Vlamingen. Nu zijn de Azoren vooral gekend vanwege hun hogedrukgebieden die ons weer beïnvloeden!
-      Uiteraard hebben de negen eilanden gemeenschappelijke kenmerken. De vele vulkaankegels en de fascinerende
-      kratermeren verraden hun vulkanische oorsprong. Meestal omhullen mist en wolken het groene land. De gematigde
-      temperatuur en de grote vochtigheid maken van de Azoren een prachtige botanische tuin. De bevolking van deze
-      Portugese eilanden is grotendeels katholiek. Religieuze manifestaties bekleden nog steeds een belangrijke plaats in
-      het dagelijks leven. De feesten van de "Espirito Santo" kwamen via Portugal naar de Azoren. Deze
-      liefdadigheidsfeesten waren noodzakelijk toen overleven op de Azoren niet gemakkelijk was. Het uitdelen van voedsel
-      aan behoeftigen is nu nog een zeer belangrijk aspect van deze feesten. Toch heeft elk eiland ook nog een eigen
-      gezicht.
+      China, de gesloten wereld van weleer, is resoluut de snelweg van de modernisering ingeslagen. De bezoeker moet
+      zich haasten, want op veel plaatsen dreigt de sfeer van het traditionele China te verdwijnen. Anderzijds worden de
+      belangrijke cultuurmonumenten gerestaureerd.
       <br><br>
-      Santa Maria is weinig vulkanisch en heeft enkele zandstranden. Evenals Graciosa, het eiland met de Vlaamse
-      windmolens, geniet het van een relatief droog en zonnig klimaat. Prins Albert van Monaco bezocht het eiland Graciosa
-      in 1879. Hij noemde de zwavelgrot "furna do enxofre" een wereldwonder.
-      <br><br>
-      Flores en het piepkleine Corvo zijn zeer vochtige eilanden. Ze kregen terecht de naam "bloemeneilanden". Door
-      slechte weersomstandigheden kunnen beide eilanden soms wekenlang geïsoleerd zijn.
-      <br><br>
-      Pico betekent top en die top is een vulkaankegel van 2351 meter, het hoogste punt van Portugal. De klim naar de top
-      voor zonsopgang is absoluut een aanrader. Zeilers die de Atlantische Oceaan oversteken, kennen de haven van Horta,
-      hoofdstad van Faial. De laatste vulkaanuitbarsting op de Azoren begon in 1957 en duurde meer dan een jaar. Faial
-      kreeg hierdoor 2,4 km2 nieuw land bij.
-      <br><br>
-      Op São Jorge maken ze heerlijke kaas naar een recept dat de Vlamingen in de 15° eeuw meebrachten. Je kan er
-      prachtige wandelingen maken van faja tot faja. Terceira biedt je de gelegenheid een "tourada a corda" mee te maken.
-      In elk dorpje wordt deze geanimeerde stierenkamp zonder verliezer in de smalle straatjes gehouden. Het historisch
-      centrum van Angra is in 1983 door de UNESCO tot werelderfgoed uitgeroepen.
-      <br><br>
-      Het groene São Miguel is het grootste eiland. De landschappen zijn er sterk gevarieerd. Men kan er zich in de
-      Auvergne of in Ierland wanen, en zelfs in IJsland of op Corsica. Welk eiland is nu het mooiste? Kom en oordeel zelf!
+      We bezoeken belangrijke steden:
+      <ul>
+        <li>
+          Beijing, waar de Hutongs in snel tempo verdwijnen; toch valt er nog veel moois te bewonderen: de Verboden
+          Stad,
+          de tempel van de Hemel, de Chinese Muur…
+        </li>
+        <li>
+          Xi’an, sedert 1974 wereldberoemd omwille van het Terracotta leger, de keizerlijke garde voor Keizer Qin
+          Shihuang.
+        </li>
+        <li>
+          Shanghai, de grootste stad van China, van oudsher een druk handelscentrum.
+        </li>
+        <li>
+          Hong Kong en Macau, voormalige kolonies, staan sedert de negentiger jaren opnieuw onder Chinees bestuur.
+        </li>
+        <li>
+          Chengdu, poort tot Tibet, stad met vele theehuizen en een pandareservaat.
+        </li>
+        <li>
+          De steden Qufu, Nanjing, Suzhou, Luoyang, Datong, Lijiang, Dali..., cultuurhistorisch belangrijke plaatsen.
+        </li>
+      </ul>
+      <br>
+      Uiteraard hebben we ook oog voor de natuur:
+      <ul>
+        <li>
+          Huashan, Taishan, Huangshan... het zijn heilige bergen die pelgrims en wandelaars aantrekken; het zijn bergen
+          die heel wat schilders en dichters hebben geïnspireerd.
+        </li>
+        <li>
+          Een boottocht door de drie kloven van de Yangtze en op de Li rivier in de omgeving van Guilin.
+        </li>
+        <li>
+          De rotsformaties van het Stenen Woud nabij Kunming.
+        </li>
+        <li>
+          Ook een greep uit onze reisherinneringen toen we van Chengdu (China) met een 4x4 door Tibet naar Lhasa reden.
+        </li>
+      </ul>
     </template>
   </CountryView>
 </template>
