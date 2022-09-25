@@ -26,6 +26,8 @@ let showContactInfo = ref(false);
 
       <button @click="showPresentationsInfo = !showPresentationsInfo" class="reizen-dropdown-button">Presentaties
       </button>
+
+      <router-link class="reizen-dropdown-button" to="/trailers">Trailers</router-link>
     </div>
   </div>
 
