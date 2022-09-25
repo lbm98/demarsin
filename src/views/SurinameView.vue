@@ -10,15 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Suriname
     </template>
 
-    <template #short-text>
-      <p>Suriname, Zuid-Amerika, bijna op de evenaar, en toch: hier spreekt men Nederlands !!! Het half miljoen
-        Surinamers woont vooral in de kuststrook en in de hoofdstad Paramaribo, UNESCO Werelderfgoed. Suriname is
-        beslist een rijk land… althans wat de bodem betreft. Die is rijk aan goud, bauxiet en petroleum. De geladen
-        geschiedenis bracht een multi-etnische bevolking voort: Indianen, Boscreolen, Chinezen, Hindoestanen, Javanen…
-        Boeiend zijn een bezoek aan de kleine dorpen in het Amazonewoud, een excursie naar de oude plantages en naar de
-        stranden waar grote zeeschildpadden hun eieren komen leggen.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="suriname" image-name="amazonewoud"/>
       <ImageWrapper country="suriname" image-name="awarradam"/>

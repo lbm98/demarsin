@@ -10,15 +10,6 @@ import CountryView from "../components/CountryView.vue"
       China
     </template>
 
-    <template #short-text>
-      <p>China, de gesloten wereld van weleer, is resoluut de snelweg van de modernisering ingeslagen. Op veel plaatsen
-        dreigt de sfeer van het traditionele China te verdwijnen. Eerst verkennen we drie belangrijke steden: Shanghai,
-        Beijing, en Xi’an, wereldberoemd omwille van het Terracotta leger. We bezoeken onderweg de cultuurhistorisch
-        belangrijke plaatsen en hebben oog voor de natuur. Daarna bezoeken we het zuidelijk deel van China met de
-        etnische minderheden, Tibet, sites met UNESCO Werelderfgoed, bekende natuurmonumenten en tot slot Macao en Hong
-        Kong.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="china" image-name="badaling"/>
       <ImageWrapper country="china" image-name="beijing"/>

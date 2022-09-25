@@ -5,13 +5,13 @@
   <div class="country-view">
 
     <div class="compressed">
-      <div class="title">
+      <div class="title text-center">
         <slot name="title"></slot>
       </div>
 
-      <div class="short-text">
-        <slot name="short-text"></slot>
-      </div>
+<!--      <div class="short-text">-->
+<!--        <slot name="short-text"></slot>-->
+<!--      </div>-->
     </div>
 
     <div class="images">

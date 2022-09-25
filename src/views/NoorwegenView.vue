@@ -10,16 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Noorwegen
     </template>
 
-    <template #short-text>
-      <p>Het zuiden van Noorwegen is een gebied met bergen en hoogplateaus, met dalen en met diepe fjorden. We trekken
-        door Jotunheimen en langs de Sognefjord, waar de mooiste stavkerkjes staan. We bezoeken de steden Oslo en
-        Bergen, het pittoreske stadje Stavanger, de art nouveau-stad Ålesund en Trondheim, de poort tot Noord-Noorwegen,
-        het land van de middernachtzon. De Lofoten zijn eilanden met idyllische vissershaventjes. Tromsø was de
-        thuishaven van de poolreiziger Roald Amundsen. Hammerfest is de meest noordelijke stad van Noorwegen. Karasjok
-        en Kautokeino zijn de belangrijkste Sami-nederzettingen. Het "einde van de weg" bereiken we een eerste maal
-        voorbij Kirkenes, aan de Russische grens. Een tweede maal eindigt de weg op de klippen van de Noordkaap.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="noorwegen" image-name="bergen"/>
       <ImageWrapper country="noorwegen" image-name="feestdag"/>

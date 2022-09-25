@@ -10,16 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Roemenië
     </template>
 
-    <template #short-text>
-      <p>Roemenië, voor velen onbekend, dus onbemind. Een land met een prachtige natuur. Een derde is bergland, met
-        toppen over de 2000 meter: de Karpaten. Al het water vloeit er richting Donau, door nauwe kloven en in brede
-        valleien. De machtige stroom vormt de grens met Servië en Bulgarije en mondt uit in de Zwarte Zee. De
-        Donaudelta, een vogelparadijs met een rijke flora en fauna, is beschermd als "Reservaat van de Biosfeer".
-        Roemenië, ooit het land van de Daciërs, veroverd door de Romeinen, zoals de naam en de taal laten vermoeden.
-        Later vestigden er zich ook Saksen en Hongaren, Turken en Slaven en een niet onbelangrijke groep Roma. Roemenië,
-        een multicultureel en meertalig lappendeken.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="roemenie" image-name="bicaz"/>
       <ImageWrapper country="roemenie" image-name="boekarest"/>

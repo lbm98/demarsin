@@ -10,15 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Nieuw-Zeeland
     </template>
 
-    <template #short-text>
-      <p>Aotearoa, land van de lange witte wolk, zo noemden de Maori’s hun land. Twee derden van de Nieuw-Zeelanders, de
-        Kiwi's, wonen op het Noordereiland, met Wellington en Auckland als belangrijkste steden. Rotorua staat voor
-        Maoricultuur en voor vulkanische activiteit. Het Zuidereiland is een wereld apart met hoge bergen, diepe
-        fjorden, blauwe meren, paradijselijke zandstranden en met veel, heel veel schapen. Nieuw-Zeeland, het decor voor
-        "the Lord of the Rings". Een land voor avonturiers: vroeger de goudzoekers, nu de bungy-springers, skydivers,
-        rafters... en globetrotters.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="nieuwzeeland" image-name="alpaca"/>
       <ImageWrapper country="nieuwzeeland" image-name="alpen"/>

@@ -10,15 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Balearen
     </template>
 
-    <template #short-text>
-      <p>Een eigen historische ontwikkeling en de verschillen in reliëf en neerslag maken elk eiland weer anders.
-        Majorca, het grootste eiland, heeft de meest gevarieerde natuur. De hoofdplaats Palma getuigt van een welvarend
-        verleden. Menorca heeft een uitgesproken landelijk karakter met imposante overblijfselen uit de verre
-        prehistorie: taula's, talayot's en naveta's... Ibiza, het witte eiland, met een schril contrast tussen drukke
-        toeristische stranden en de rust van het platteland. Formentera: stranden, een molen... je bezoekt het in 1
-        dag... met de fiets.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="balearen" image-name="almudaina"/>
       <ImageWrapper country="balearen" image-name="belver"/>

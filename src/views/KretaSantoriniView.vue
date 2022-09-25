@@ -11,16 +11,7 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #short-text>
-      <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking van het paleis te
-        Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht. In het eerste deel
-        verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren, Byzantijnen,
-        Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na.
-
-        In het tweede deel gaat onze aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De
-        Witte Bergen hebben de hoogste toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als
-        Nationaal Park. Slechts een vierde van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn,
-        citrusvruchten en tomaten; toch is toerisme nu de belangrijkste bron van inkomsten.</p>
-    </template>
+     </template>
 
     <template #images>
       <ImageWrapper country="kretasantorini" image-name="aradhena"/>

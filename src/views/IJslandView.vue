@@ -11,15 +11,6 @@ import CountryView from "../components/CountryView.vue"
       IJsland
     </template>
 
-    <template #short-text>
-      <p>De kredietcrisis en vooral de aswolk van de vulkaan Eyjafjallajökull, hebben IJsland in het nieuws gebracht. De
-        plaats waar de Noorman Ingolfur Arnarson in 874 zijn boerderij optrok, groeide uit tot de hoofdstad, Reykjavik.
-        Daar woont nu zowat de helft van de totale bevolking. Het binnenland daarentegen is desolaat en nagenoeg
-        onbewoond. Het "land van ijs" heeft uitgestrekte gletsjers, meren vol ijsbergen, woeste rivieren en machtige
-        watervallen. Het "land van vuur" is bezaaid met vulkanen, kratermeren, geisers, solfataren, warme bronnen en
-        stoomvelden. IJslanders zijn fier op hun taal die in de loop der eeuwen slechts weinig is veranderd</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="ijsland" image-name="dyrholaey"/>
       <ImageWrapper country="ijsland" image-name="godafoss"/>

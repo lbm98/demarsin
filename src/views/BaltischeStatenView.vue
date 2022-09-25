@@ -10,15 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Baltische Staten
     </template>
 
-    <template #short-text>
-      <p>De zingende revolutie, een mensenketting, 600 km lang, van Tallinn over Riga tot Vilnius. Zo konden Estland,
-        Letland en Litouwen hun vrijheid terugwinnen in 1991. De historische centra van de drie hoofdsteden zijn UNESCO
-        werelderfgoed. We reisden meerdere malen door de drie Baltische Staten. We reden langs uitgestrekte velden en
-        bossen en we bezochten de Nationale Parken .We gingen op zoek naar cultureel erfgoed uit de verschillende
-        periodes van de rijke geschiedenis. Zelfs de zwarte bladzijden van de Sovjettijd gaan we niet uit de weg. We
-        belichten eveneens de tradities van etnische minderheden. De Baltische Staten, het ontdekken overwaard.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="baltischestaten" image-name="kathedraal"/>
       <ImageWrapper country="baltischestaten" image-name="kruisenheuvel"/>

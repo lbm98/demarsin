@@ -10,19 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Slovenië
     </template>
 
-    <template #short-text>
-      <p>Slovenië biedt adembenemende landschappen, prachtige grotten, glooiende wijngaarden… en stille getuigen van een
-        bewogen geschiedenis. Slovenië, het meest welvarende deel van het Joegoslavië onder Tito, verklaarde zich
-        onafhankelijk in 1991. Het land trad toe tot de EU in 1994 en tot de eurozone in 2007.
-
-        De Alpen vormen de grens met Oostenrijk met als hoogste top de Triglav (2864 m). We bezoeken Bled, de grotten
-        van Postojna en Škocjan en de lipizzanerpaarden te Lipica. Er is 50 km kust met de Venetiaanse stadjes Koper,
-        Izola en Piran.
-
-        Uiteraard bezoeken we Ljubljana, als Europese hoofdstad klein maar fijn. In Maribor groeit, naar men zegt, de
-        oudste wijnstok ter wereld. Een goede reden om de druiven feestelijk te oogsten.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="slovenie" image-name="bled"/>
       <ImageWrapper country="slovenie" image-name="feest"/>

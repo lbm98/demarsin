@@ -10,18 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Madeira
     </template>
 
-    <template #short-text>
-      <p>MADEIRA, parel in de Atlantische Oceaan, drijvende tuin, bloemenparadijs... Deze omschrijvingen dankt het
-        eiland aan zijn mild klimaat. Madeira werd een druk centrum voor de handel in suiker en kleurstoffen. Vlaanderen
-        was een belangrijke handelspartner. Musea en kerken bezitten Vlaamse kunstwerken uit de 16de eeuw. Op de
-        berghellingen zijn terrassen aangelegd voor de landbouw. Een uitgebreid netwerk van kanalen of levada’s, zorgt
-        voor de bevloeiing. Toerisme is nu de grootste bron van inkomsten voor Madeira. Het is een paradijs voor
-        wandelaars. De tocht van de Pico Ruivo naar de Pico do Arieiro is een topper.
-
-        Veertig kilometer ten noordoosten van Madeira, ligt er een kleiner eiland: PORTO-SANTO. Het gouden zand en het
-        blauwe water maken van dit eiland een paradijs voor zonnekloppers.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="madeira" image-name="basaltzuilen"/>
       <ImageWrapper country="madeira" image-name="camara"/>

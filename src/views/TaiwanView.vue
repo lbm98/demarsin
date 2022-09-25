@@ -10,20 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Taiwan
     </template>
 
-    <template #short-text>
-      <p>In de zestiende eeuw ontdekten Portugese zeevaarders een mooi eiland en noemden het “Ilha Formosa”, het huidige
-        TAIWAN.
-        De hoofdstad TAIPEI is een grootstad met hoge torengebouwen, brede lanen, ruime parken en pleinen, zeer druk
-        verkeer maar met een modern en vlot transportsysteem. Het is eveneens een Chinese stad, met schitterende
-        gebouwen in de traditionele stijl van de Chinese paleizen, met kleurrijke tempels vol bedrijvigheid en rook van
-        de vele offerstokjes.
-        <br><br>
-        Taiwan heeft prachtige natuurgebieden en nationale parken. Het park Yangmingshan ligt ten noorden van Taipei en
-        Kenting Nationaal Park in het uiterste zuiden van het eiland. Niet te missen is het Taroko Nationaal Park aan de
-        oostkust, een rivierkloof in een prachtig berglandschap.
-      </p>
-    </template>
-
     <template #images>
       <ImageWrapper country="taiwan" image-name="aboriginal"/>
       <ImageWrapper country="taiwan" image-name="hsitou"/>

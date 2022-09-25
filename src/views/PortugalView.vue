@@ -10,16 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Portugal
     </template>
 
-    <template #short-text>
-      <p>Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
-        vakantiebestemmingen voor zonnekloppers en liefhebbers van natuurschoon. En voor wie de cultuur en de tradities
-        van Portugal wil ontdekken, is er een ruime keuze aan culturele bezienswaardigheden en activiteiten. De
-        wijngaardterrassen van de Alto Douro, UNESCO Werelderfgoed, leveren de vermaarde portwijn. En elke regio heeft
-        zijn traditioneel gerecht. Naast de teelt van druiven en olijven is Portugal ook bekend voor de productie van
-        kurk, grondstof voor een groot aantal toepassingen. We hebben aandacht voor het leven van elke dag en voor de
-        bijzondere momenten, zoals de religieuze en profane feesten.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="portugal" image-name="algarve"/>
       <ImageWrapper country="portugal" image-name="ankerpark"/>

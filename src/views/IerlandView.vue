@@ -10,15 +10,6 @@ import CountryView from "../components/CountryView.vue"
       Ierland
     </template>
 
-    <template #short-text>
-      <p>IJs, wind en water vormden het prachtige Ierse landschap. De invloed van de Golfstroom geeft Ierland zijn
-        groene kleur. Kelten en Vikings drukten hun stempel op de Ierse Cultuur. Ierland werd vroeg gekerstend. Ierse
-        Monniken verspreidden het Christendom over West-Europa. De invasie van Anglo-Normandiërs was het begin van een
-        eeuwenlange onderdrukking. Een lange en bloedige vrijheidsstrijd leidde tot de onafhankelijkheid in 1922.
-        Ierland is een landbouwland met sterke tradities. Jaarmarkten brengen nog steeds veel volk op de been.
-        Mysterieuze verhalen waren een rijke inspiratiebron voor grote figuren uit de wereldliteratuur.</p>
-    </template>
-
     <template #images>
       <ImageWrapper country="ierland" image-name="abbey"/>
       <ImageWrapper country="ierland" image-name="adara"/>
