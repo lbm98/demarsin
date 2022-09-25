@@ -7,11 +7,35 @@ import CountryItem from "@/components/CountryItem.vue";
 
     <CountryItem>
       <template #title>
+        Baltische Staten
+      </template>
+
+      <template #image>
+        <img class="image" src="@/assets/home/baltischestaten.jpg"/>
+      </template>
+
+      <template #content>
+        <p>De zingende revolutie, een mensenketting, 600 km lang, van Tallinn over Riga tot Vilnius. Zo konden Estland,
+          Letland en Litouwen hun vrijheid terugwinnen in 1991. De historische centra van de drie hoofdsteden zijn
+          UNESCO
+          werelderfgoed. We reisden meerdere malen door de drie Baltische Staten. We reden langs uitgestrekte velden en
+          bossen en we bezochten de Nationale Parken .We gingen op zoek naar cultureel erfgoed uit de verschillende
+          periodes van de rijke geschiedenis. Zelfs de zwarte bladzijden van de Sovjettijd gaan we niet uit de weg. We
+          belichten eveneens de tradities van etnische minderheden. De Baltische Staten, het ontdekken overwaard.</p>
+      </template>
+
+      <template #link>
+        <router-link class="country-link" to="/baltische-staten">Meer</router-link>
+      </template>
+    </CountryItem>
+
+    <CountryItem>
+      <template #title>
         Portugal
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/portugal.jpg"/>
+        <img class="image" src="@/assets/home/portugal-2.jpg"/>
       </template>
 
       <template #content>
@@ -54,29 +78,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
     </CountryItem>
 
-    <CountryItem>
-      <template #title>
-        Baltische Staten
-      </template>
 
-      <template #image>
-        <img class="image" src="@/assets/home/baltischestaten.jpg"/>
-      </template>
-
-      <template #content>
-        <p>De zingende revolutie, een mensenketting, 600 km lang, van Tallinn over Riga tot Vilnius. Zo konden Estland,
-          Letland en Litouwen hun vrijheid terugwinnen in 1991. De historische centra van de drie hoofdsteden zijn
-          UNESCO
-          werelderfgoed. We reisden meerdere malen door de drie Baltische Staten. We reden langs uitgestrekte velden en
-          bossen en we bezochten de Nationale Parken .We gingen op zoek naar cultureel erfgoed uit de verschillende
-          periodes van de rijke geschiedenis. Zelfs de zwarte bladzijden van de Sovjettijd gaan we niet uit de weg. We
-          belichten eveneens de tradities van etnische minderheden. De Baltische Staten, het ontdekken overwaard.</p>
-      </template>
-
-      <template #link>
-        <router-link class="country-link" to="/baltische-staten">Meer</router-link>
-      </template>
-    </CountryItem>
 
     <CountryItem>
       <template #title>
@@ -212,7 +214,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/taiwan.jpg"/>
+        <img class="image" src="@/assets/home/taiwan-2.jpg"/>
       </template>
 
       <template #content>
@@ -244,7 +246,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/azoren.jpg"/>
+        <img class="image" src="@/assets/home/azoren-2.jpg"/>
       </template>
 
       <template #content>
@@ -272,7 +274,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/china.jpg"/>
+        <img class="image" src="@/assets/home/china-2.jpg"/>
       </template>
 
       <template #content>
@@ -298,7 +300,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/ijsland.jpg"/>
+        <img class="image" src="@/assets/home/ijsland-2.jpg"/>
       </template>
 
       <template #content>
@@ -323,7 +325,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/madeira.jpg"/>
+        <img class="image" src="@/assets/home/madeira-2.jpg"/>
       </template>
 
       <template #content>
@@ -351,7 +353,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/nieuw-zeeland.jpg"/>
+        <img class="image" src="@/assets/home/nieuw-zeeland-2.jpg"/>
       </template>
 
       <template #content>
@@ -376,7 +378,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #image>
-        <img class="image" src="@/assets/home/roemenie.jpg"/>
+        <img class="image" src="@/assets/home/roemenie-2.jpg"/>
       </template>
 
       <template #content>
