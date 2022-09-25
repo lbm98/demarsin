@@ -39,7 +39,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #content>
-        <p>Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
+        <p>Portugal, van noord tot zuid: Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve. Het zijn populaire
           vakantiebestemmingen voor zonnekloppers en liefhebbers van natuurschoon. En voor wie de cultuur en de
           tradities
           van Portugal wil ontdekken, is er een ruime keuze aan culturele bezienswaardigheden en activiteiten. De

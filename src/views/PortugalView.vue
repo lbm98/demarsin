@@ -26,7 +26,8 @@ import CountryView from "../components/CountryView.vue"
     </template>
 
     <template #long-text>
-      Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
+      Portugal, van noord tot zuid: Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve. Het zijn
+      ongetwijfeld populaire
       vakantiebestemmingen. Een kustlijn van bijna 1000 km biedt tal van mogelijkheden aan zonnekloppers en liefhebbers
       van allerhande watersporten. Maar er is meer natuurschoon dan de kust met witte stranden en prachtige klippen.
       Peneda-Gerês is een Nationaal Park in het bergachtige noordwesten van Portugal. Daarnaast zijn er tal van
