@@ -1,14 +1,18 @@
 <script setup lang="ts">
 import IconDownload from "../components/icons/IconDownload.vue";
 import IconMagnify from "../components/icons/IconMagnify.vue";
-import {ref} from "vue";
+import {computed, ref} from "vue";
 
-defineProps({
+let props = defineProps({
   country: String,
   imageName: String
 })
 
 let showActions = ref(false);
+
+const compressedUrl = new URL(`../assets/${props.country}/compressed/${props.imageName}.jpg`, import.meta.url).href
+const originalUrl = new URL(`../assets/${props.country}/original/${props.imageName}.jpg`, import.meta.url).href
+
 </script>
 
 <template>
@@ -16,12 +20,12 @@ let showActions = ref(false);
        @mouseover="showActions = true"
        @mouseleave="showActions = false"
   >
-    <img :src="`./src/assets/${country}/compressed/${imageName}.jpg`" alt="">
+    <img :src="compressedUrl" alt="">
     <div class="actions-container" v-show="showActions">
-      <a :href="`./src/assets/${country}/original/${imageName}.jpg`" :download="imageName">
+      <a :href="originalUrl" :download="imageName">
         <IconDownload/>
       </a>
-      <a :href="`./src/assets/${country}/original/${imageName}.jpg`" target="_blank">
+      <a :href="originalUrl" target="_blank">
         <IconMagnify/>
       </a>
     </div>

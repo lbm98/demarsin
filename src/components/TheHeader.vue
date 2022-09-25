@@ -9,9 +9,14 @@ let showContactInfo = ref(false);
 <template>
   <div class="header">
     <div class="header-top">
-      <p class="header-top-title">
-        <router-link class="country-link" to="/">Demarsin-Opsommer</router-link>
-      </p>
+      <div class="header-top-title">
+        <router-link class="country-link text-4xl" to="/">Demarsin-Opsommer</router-link>
+        <p class="text-2xl pl-6 my-3">Audio Visuele Reportages</p>
+        <div class="text-xl pl-6 mt-10">
+          <p>'s-Hertogenwijngaard 12 - B3000 Leuven</p>
+          <p>info@demarsin.org - 016 23 13 73</p>
+        </div>
+      </div>
     </div>
     <div class="header-bottom">
 
@@ -19,11 +24,10 @@ let showContactInfo = ref(false);
 
       <button @click="showPresentationsInfo = !showPresentationsInfo" class="reizen-dropdown-button">Presentaties
       </button>
-      <button @click="showContactInfo = !showContactInfo" class="reizen-dropdown-button">Contact</button>
     </div>
   </div>
 
-  <div class="presentation-info" v-show="showPresentationsInfo">
+  <div class="presentation-info pl-10 pt-3" v-show="showPresentationsInfo">
     Geen reisreportages, maar documentaires, tot stand gekomen na verschillende lange reizen verspreid over
     meerdere jaren.
     <br>
@@ -36,18 +40,12 @@ let showContactInfo = ref(false);
     Inleiding en nabespreking indien gewenst.
     <br><br>
     Eigen professioneel materiaal voor grote en kleine zalen:
-    <ul>
+    <ul class="list-disc ml-5">
       <li>scherm 2,40 x 2,40 m, indien gewenst.</li>
       <li>Krachtige beamer, voldoet ook op groot filmscherm.</li>
       <li>Hi-Fi-stereo geluidsinstallatie.</li>
-      <li>Commentaar, muziek en geluid afzonderlijk regelbaar.</li>
     </ul>
 
-    <hr class="horizontal-rule">
-  </div>
-
-  <div class="contact-info" v-show="showContactInfo">
-    <p class="">'s-Hertogenwijngaard 12 - B3000 Leuven - info@demarsin.org - 016 23 13 73</p>
     <hr class="horizontal-rule">
   </div>
 </template>
@@ -55,7 +53,7 @@ let showContactInfo = ref(false);
 <style scoped>
 .header {
   width: 100%;
-  height: 200px;
+  height: 320px;
   background-color: #D9D9D9;
 }
 
@@ -65,7 +63,7 @@ let showContactInfo = ref(false);
   display: block;
   text-decoration: none;
   color: black;
-  font-size: 40px;
+  /*font-size: 40px;*/
 }
 
 .header-top {
@@ -96,7 +94,7 @@ let showContactInfo = ref(false);
 
 .presentation-info {
   font-size: 20px;
-  padding: 20px;
+  /*padding: 20px;*/
   background-color: #EDEDED;
 }
 

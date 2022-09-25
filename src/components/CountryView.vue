@@ -37,7 +37,7 @@
 .images {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-template-rows:repeat(4, 1fr);
+  grid-template-rows:repeat(auto-fit, 1fr);
   max-width: 1000px;
   grid-gap: 0.5rem;
   margin-left: auto;
@@ -58,11 +58,13 @@
 .short-text {
   margin-top: 20px;
   font-size: 20px;
+  padding-left: 5px;
 }
 
 .long-text{
   margin-top: 40px;
   padding-bottom: 30px;
   font-size: 20px;
+  padding-left: 5px;
 }
 </style>

@@ -17,7 +17,7 @@ function closeOnNextClick() {
 
 <template>
   <div class="reizen-dropdown">
-    <button @click.stop="onButtonClick" class="reizen-dropdown-button">Reizen</button>
+    <button @click.stop="onButtonClick" class="reizen-dropdown-button">Reportages</button>
     <div v-show="showReizenDropDown" class="reizen-dropdown-content">
       <router-link class="country-link" to="/azoren">Azoren</router-link>
       <router-link class="country-link" to="/balearen">Balearen</router-link>
