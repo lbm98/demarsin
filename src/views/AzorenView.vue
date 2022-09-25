@@ -24,7 +24,6 @@ import CountryView from "../components/CountryView.vue"
       <ImageWrapper country="azoren" image-name="lagoa"/>
       <ImageWrapper country="azoren" image-name="molens"/>
       <ImageWrapper country="azoren" image-name="pico"/>
-      <ImageWrapper country="azoren" image-name="tourada"/>
       <ImageWrapper country="azoren" image-name="weiden"/>
       <ImageWrapper country="azoren" image-name="woning"/>
     </template>

@@ -20,7 +20,9 @@ let showContactInfo = ref(false);
     </div>
     <div class="header-bottom">
 
-      <ReizenDropDown/>
+      <router-link class="country-link text-2xl ml-5" to="/">Home</router-link>
+
+      <ReizenDropDown class="ml-auto"/>
 
       <button @click="showPresentationsInfo = !showPresentationsInfo" class="reizen-dropdown-button">Presentaties
       </button>
@@ -80,7 +82,7 @@ let showContactInfo = ref(false);
   display: flex;
   padding-right: 20px;
   gap: 20px;
-  justify-content: flex-end;
+  /*justify-content: flex-end;*/
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 24px;

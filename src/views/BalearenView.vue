@@ -26,7 +26,6 @@ import CountryView from "../components/CountryView.vue"
       <ImageWrapper country="balearen" image-name="toren"/>
       <ImageWrapper country="balearen" image-name="tralayot"/>
       <ImageWrapper country="balearen" image-name="valdemosa"/>
-      <ImageWrapper country="balearen" image-name="vuurtoren"/>
     </template>
 
     <template #long-text>

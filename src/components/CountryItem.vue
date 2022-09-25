@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="country-item">
+  <div class="country-item xl:max-w-[80%]">
 
     <div class="country-item-image">
       <slot name="image"></slot>
@@ -35,7 +35,7 @@
 }
 
 .country-item-image {
-  height: 300px;
+  height: 400px;
 }
 
 .country-item-side {
