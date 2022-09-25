@@ -12,12 +12,14 @@ import CountryView from "../components/CountryView.vue"
 
     <template #images>
       <ImageWrapper country="baltischestaten" image-name="kathedraal"/>
+      <ImageWrapper country="baltischestaten" image-name="waterburcht"/>
       <ImageWrapper country="baltischestaten" image-name="kruisenheuvel"/>
       <ImageWrapper country="baltischestaten" image-name="lijvenfeest"/>
       <ImageWrapper country="baltischestaten" image-name="park"/>
       <ImageWrapper country="baltischestaten" image-name="riga"/>
       <ImageWrapper country="baltischestaten" image-name="vuurtoren"/>
-      <ImageWrapper country="baltischestaten" image-name="waterburcht"/>
+      <ImageWrapper country="baltischestaten" image-name="tallinn"/>
+
       <ImageWrapper country="baltischestaten" image-name="molenmuseum"/>
     </template>
 

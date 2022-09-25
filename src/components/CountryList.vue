@@ -7,6 +7,31 @@ import CountryItem from "@/components/CountryItem.vue";
 
     <CountryItem>
       <template #title>
+        Portugal
+      </template>
+
+      <template #image>
+        <img class="image" src="@/assets/home/portugal.jpg"/>
+      </template>
+
+      <template #content>
+        <p>Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
+          vakantiebestemmingen voor zonnekloppers en liefhebbers van natuurschoon. En voor wie de cultuur en de
+          tradities
+          van Portugal wil ontdekken, is er een ruime keuze aan culturele bezienswaardigheden en activiteiten. De
+          wijngaardterrassen van de Alto Douro, UNESCO Werelderfgoed, leveren de vermaarde portwijn. En elke regio heeft
+          zijn traditioneel gerecht. Naast de teelt van druiven en olijven is Portugal ook bekend voor de productie van
+          kurk, grondstof voor een groot aantal toepassingen. We hebben aandacht voor het leven van elke dag en voor de
+          bijzondere momenten, zoals de religieuze en profane feesten.</p>
+      </template>
+
+      <template #link>
+        <router-link class="country-link" to="/portugal">Meer</router-link>
+      </template>
+    </CountryItem>
+
+    <CountryItem>
+      <template #title>
         Balearen
       </template>
 
@@ -370,30 +395,7 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
     </CountryItem>
 
-    <CountryItem>
-      <template #title>
-        Portugal
-      </template>
 
-      <template #image>
-        <img class="image" src="@/assets/home/portugal.jpg"/>
-      </template>
-
-      <template #content>
-        <p>Portugal, van noord tot zuid. Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve zijn populaire
-          vakantiebestemmingen voor zonnekloppers en liefhebbers van natuurschoon. En voor wie de cultuur en de
-          tradities
-          van Portugal wil ontdekken, is er een ruime keuze aan culturele bezienswaardigheden en activiteiten. De
-          wijngaardterrassen van de Alto Douro, UNESCO Werelderfgoed, leveren de vermaarde portwijn. En elke regio heeft
-          zijn traditioneel gerecht. Naast de teelt van druiven en olijven is Portugal ook bekend voor de productie van
-          kurk, grondstof voor een groot aantal toepassingen. We hebben aandacht voor het leven van elke dag en voor de
-          bijzondere momenten, zoals de religieuze en profane feesten.</p>
-      </template>
-
-      <template #link>
-        <router-link class="country-link" to="/portugal">Meer</router-link>
-      </template>
-    </CountryItem>
   </div>
 </template>
 

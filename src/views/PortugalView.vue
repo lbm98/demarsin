@@ -21,6 +21,8 @@ import CountryView from "../components/CountryView.vue"
       <ImageWrapper country="portugal" image-name="lissabon2"/>
       <ImageWrapper country="portugal" image-name="noord"/>
       <ImageWrapper country="portugal" image-name="porta"/>
+      <ImageWrapper country="portugal" image-name="aveiro-salinas"/>
+      <ImageWrapper country="portugal" image-name="douro-wijngaarden"/>
     </template>
 
     <template #long-text>

@@ -23,6 +23,9 @@ import CountryView from "../components/CountryView.vue"
       <ImageWrapper country="taiwan" image-name="taroko"/>
       <ImageWrapper country="taiwan" image-name="tempel"/>
       <ImageWrapper country="taiwan" image-name="yeliou"/>
+      <ImageWrapper country="taiwan" image-name="yeliou2"/>
+      <ImageWrapper country="taiwan" image-name="drakenbrug"/>
+      <ImageWrapper country="taiwan" image-name="taroko-kloof"/>
     </template>
 
     <template #long-text>
