@@ -39,7 +39,8 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #content>
-        <p>Portugal, van noord tot zuid: Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve. Het zijn populaire
+        <p>Portugal, van noord tot zuid: Noord-Portugal, Beiras, Vale do Tejo, Alentejo en zeker Algarve. Het zijn
+          populaire
           vakantiebestemmingen voor zonnekloppers en liefhebbers van natuurschoon. En voor wie de cultuur en de
           tradities
           van Portugal wil ontdekken, is er een ruime keuze aan culturele bezienswaardigheden en activiteiten. De
@@ -217,17 +218,11 @@ import CountryItem from "@/components/CountryItem.vue";
       </template>
 
       <template #content>
-        <p>De Griekse mythologie getuigt van grote vindingrijkheid en verbeeldingskracht. De ontdekking
-          van het paleis te Knossos in het begin van de 20ste eeuw heeft de mythe dichter bij de werkelijkheid gebracht.
-          In
-          het eerste deel verkennen we Kreta en Santorini met de geschiedenis als rode draad. Grieken, Romeinen, Moren,
-          Byzantijnen, Venetianen, Turken en Duitsers: ze lieten er allemaal hun sporen na. In het tweede deel gaat onze
-          aandacht naar de natuur, het cultureel erfgoed en de hedendaagse samenleving. De Witte Bergen hebben de
-          hoogste
-          toppen en de diepste ravijnen. Het gebied met de Samariakloof is beschermd als Nationaal Park. Slechts een
-          vierde
-          van het land is geschikt voor landbouw. Kreta produceert olijfolie, wijn, citrusvruchten en tomaten; toch is
-          toerisme nu de belangrijkste bron van inkomsten.</p>
+        <p>Halfweg tussen Portugal en New York ligt een bijna vergeten eilandengroep, vulkanen waarvan de toppen boven
+          het water van de Atlantische Oceaan uitsteken. Door de overvloedige neerslag en de gematigde temperatuur
+          hebben de Azoren een uitzonderlijk weelderige plantengroei. De onbewoonde eilanden werden in de 15de eeuw
+          gekoloniseerd, hoofdzakelijk door Portugezen maar ook door Vlamingen. De Azoren zijn belangrijk voor de
+          zeilers die de oceaan oversteken en voor reizigers die van een niet alledaagse bestemming houden.</p>
       </template>
 
       <template #link>
@@ -368,9 +363,6 @@ import CountryItem from "@/components/CountryItem.vue";
         <router-link class="country-link" to="/suriname">Meer</router-link>
       </template>
     </CountryItem>
-
-
-
 
 
     <CountryItem>
