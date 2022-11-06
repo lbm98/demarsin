@@ -36,8 +36,10 @@
 
 .images {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-template-rows:repeat(auto-fit, 1fr);
+  /*grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));*/
+  /*grid-template-rows: repeat(auto-fit, 1fr);*/
+  grid-template-columns: repeat(3, 1fr);
+  /*grid-template-rows:*/
   max-width: 1000px;
   grid-gap: 0.5rem;
   margin-left: auto;
