@@ -29,6 +29,10 @@ const router = createRouter({
       component: () => import('../views/ChinaView.vue')
     },
     {
+      path: '/denemarken',
+      component: () => import('../views/DenemarkenView.vue')
+    },
+    {
       path: '/ierland',
       component: () => import('../views/IerlandView.vue')
     },

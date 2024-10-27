@@ -7,6 +7,33 @@ import CountryItem from "@/components/CountryItem.vue";
 
     <CountryItem>
       <template #title>
+        Denemarken
+      </template>
+
+      <template #image>
+        <img class="image" src="@/assets/home/aero-strandhuisje-2.jpg"/>
+      </template>
+
+      <template #content>
+        <p>Denemarken, het meest zuidelijke land van Scandinavië, telt meer dan 400 eilanden,
+          samen goed voor 7300 km kustlijn. Wie met de wagen de "margrietroute"
+          volgt - 3500 km langs rustige wegen - krijgt niet alleen de mooiste
+          Deense landschappen te zien, maar ook de belangrijkste
+          bezienswaardigheden en de interessantste steden.
+          <b>Jylland</b> - het enige stuk Deense "vasteland" - heeft prachtige zandstranden.
+          <b>Fyn</b>, "de tuin van Denemarken",is de geboorteplaats van sprookjesschrijver H.C. Andersen.
+          <b>Sjaelland</b> met de hoofdstad Kopenhagen, hoofdstad en residentie van de Deense koningen.
+          <b>Aerø, Lolland, Falster en Møn</b> zijn eilanden die ten zuiden van Sjaelland gelegen zijn.
+          <b>Bornholm</b>, 150 km verderop in de Oostzee. Een klein eiland, paradijs voor fietsers en Denemarken in een notendop. </p>
+      </template>
+
+      <template #link>
+        <router-link class="country-link" to="/denemarken">Meer</router-link>
+      </template>
+    </CountryItem>
+
+    <CountryItem>
+      <template #title>
         Baltische Staten
       </template>
 

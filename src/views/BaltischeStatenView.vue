@@ -19,7 +19,6 @@ import CountryView from "../components/CountryView.vue"
       <ImageWrapper country="baltischestaten" image-name="riga"/>
       <ImageWrapper country="baltischestaten" image-name="vuurtoren"/>
       <ImageWrapper country="baltischestaten" image-name="tallinn"/>
-
       <ImageWrapper country="baltischestaten" image-name="molenmuseum"/>
     </template>
 

@@ -23,6 +23,7 @@ function closeOnNextClick() {
       <router-link class="country-link" to="/balearen">Balearen</router-link>
       <router-link class="country-link" to="/baltische-staten">Baltische Staten</router-link>
       <router-link class="country-link" to="/china">China</router-link>
+      <router-link class="country-link" to="/denemarken">Denemarken</router-link>
       <router-link class="country-link" to="/ierland">Ierland</router-link>
       <router-link class="country-link" to="/ijsland">IJsland</router-link>
       <router-link class="country-link" to="/kreta-santorini">Kreta Santorini</router-link>
